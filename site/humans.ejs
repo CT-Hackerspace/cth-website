@@ -1,0 +1,21 @@
+/* TEAM */<% for (const member of team) with(member) { %>
+  <%= title %>: <%= name %>
+  Contact: <%= contact %><% for (const { type, handle } of  member["social-media"] ) { %>
+  <%= type %>: <%= handle %>
+  <% } %>From: <%= from %>
+<% } %>
+
+/* THANKS */<% for (const thank of thanks) with (thank) { %>
+  <%= title %>: <%= name %>
+  Contact: <%= contact %><% for (const { type, handle } of thank["social-media"] ) { %>
+  <%= type %>: <%= handle %>
+  <% } %>From: <%= from %>
+<% } %>		
+
+/* SITE */
+	Last update: <%= new Date().toISOString().split("T")[0] %>
+	Language: <%= languages.join(", ") %>
+	Doctype: HTML5
+  Formats: <%= formats.join(", ") %>
+	IDE: Visual Studio Code
+  Renderer: Custom EJS Template Renderer - Powered By Bun.js!

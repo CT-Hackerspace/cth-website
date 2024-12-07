@@ -1,0 +1,41 @@
+# make sure theres no template, and the file extension should be txt
+no-layout: true
+extension: ".txt"
+
+# Anyone who worked on the website goes here
+team:
+  - title: Web Master
+    name: Joshua Tenner
+    contact: tenner.joshua@gmail.com
+    social-media:
+      - type: Twitter
+        handle: "@cthackerspace"
+    from: New Britain, CT
+  - title: Web Designer
+    name: Eric Bright
+    contact: reddwarf86esb@gmail.com
+    social-media:
+      - type: Twitter
+        handle: "@cthackerspace"
+    from: Watertown, CT
+
+# Put anyone we should thank here
+thanks:
+  - title: Founder
+    name: Bill Saturno
+    contact: contact.cthackerspace@gmail.com
+    social-media:
+      - type: Twitter
+        handle: "@cthackerspace"
+    from: Watertown, CT
+
+# All the languages of the website
+languages:
+  - English
+
+# any of the technologies used for templating go here
+formats:
+  - Markdown
+  - EJS
+  - Typescript
+  - YAML

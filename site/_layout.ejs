@@ -1,0 +1,52 @@
+<%
+  const page = "test";
+%>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title><%= title %></title>
+    <!-- TODO: See todo.txt for meta tags and dynamic content. -->
+    <meta http-equiv="Content-Type" content="...; charset=...">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+    <link rel="author" href="/humans.txt" />
+    <meta name="robots" content="index, follow" />
+    <link rel="stylesheet" href="/styles/index.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a class="brand-link" href="/"><img class="brand" src="/<%= brandImageUrl %>" alt="<%= brand %>"/></a>
+        <label for="main-menu" class="navbar-toggle">🍔</label>
+        <input id="main-menu" type="checkbox" />
+        <%- partial("./_menu.ejs", {}) %>
+    </header>
+    <main>
+      <!-- Markup breadcrum controls here -->
+      <% if (asset !== "index.md") { %>
+        <%- partial("./_breadcrumb.ejs", { asset }) %>
+      <% } %>
+      <%- body %>
+    </main>
+    <footer>
+      <section>
+        <h2>Address</h2>
+        <address>
+          30 Echo Lake Road<br />
+          Watertown, CT 06795
+        </address>
+      </section>
+      <section>
+        <h2>Contact Info</h2>
+        <a href="tel:8046014225">(804) 601-HACK</a><br />
+        <a href="mailto:contact.cthackerspace@gmail.com">contact.cthackerspace@gmail.com</a>
+      </section>
+      <section>
+        <h2>Open House</h2>
+        Wednesday 7-10pm
+      </section>
+    </footer>
+  </body>
+</html>

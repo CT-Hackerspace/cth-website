@@ -1,0 +1,275 @@
+@use "reset";
+@use "variables";
+@use "breakpoints";
+@use "sass:color";
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+
+  header,
+  footer {
+    flex-grow: 0;
+  }
+  main {
+    flex-grow: 1;
+  }
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: color.adjust(#343a40, $lightness: 10%);
+
+  &:hover,
+  &:focus,
+  &:active {
+    color: #111;
+    text-decoration: underline;
+  }
+}
+
+img.left {
+  float: left;
+}
+
+img.right {
+  float: right;
+}
+/* TODO: Make the images be more rigid, and not allow the padding behind it. */
+
+hr {
+  color: #00000000;
+  border: 0px transparent solid;
+  width: 100%;
+}
+
+hr::after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #343a40;
+  box-shadow: black 0px 1px 5px -1px;
+  img.brand {
+    margin: 7px 9px;
+    height: 42px;
+  }
+
+  input[type="checkbox"],
+  .navbar-toggle {
+    display: none;
+  }
+
+  ul {
+    display: flex;
+    align-items: stretch;
+    gap: 1rem;
+    padding: 0 1rem;
+    list-style: none;
+
+    li {
+      display: flex;
+      align-items: stretch;
+
+      a {
+        color: #ced4db;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        padding: 0.375rem 0.5rem;
+
+        &:hover,
+        &:focus,
+        &:active {
+          color: #ffffff;
+          text-decoration: none;
+        }
+      }
+      &.active a {
+        color: #ffffff;
+      }
+    }
+  }
+  @include breakpoints.media-breakpoint-down(md) {
+    flex-wrap: wrap;
+
+    .brand-link {
+      align-self: flex-start;
+      background-color: variables.$nav-button-bg;
+
+      &:hover {
+        background-color: variables.$nav-button-hover-bg;
+      }
+
+      &:active {
+        background-color: variables.$nav-button-active-bg;
+      }
+    }
+
+    .navbar-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0.5rem;
+      width: 3.5rem;
+      height: 2.5rem;
+      align-self: flex-end;
+      background-color: variables.$nav-button-bg;
+      border: 1px solid #ced4db;
+      border-radius: 0.25rem;
+
+      &:hover {
+        background-color: variables.$nav-button-hover-bg;
+      }
+
+      &:active {
+        background-color: variables.$nav-button-active-bg;
+      }
+    }
+
+    input[type="checkbox"]:not(:checked) + ul {
+      max-height: 0;
+    }
+    ul {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      padding: 0;
+      overflow: hidden;
+      width: 100%;
+      max-height: 5000px;
+      transition: max-height cubic-bezier(1, 0, 0, 1) 0.35s;
+
+      > li {
+        display: block;
+
+        a {
+          display: block;
+          padding: 0.5rem 1rem;
+          &:focus,
+          &:hover {
+            background-color: #00000040;
+          }
+        }
+        &.active a {
+          background-color: #00000040;
+        }
+      }
+    }
+  }
+}
+
+main {
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: flex-start;
+  gap: 1rem;
+  width: 100%;
+  max-width: 1064px;
+  margin: auto;
+
+  .breadcrumbs {
+    text-transform: capitalize;
+  }
+
+  & > img {
+    align-self: center;
+
+    &.right,
+    &.left {
+      max-width: 33.33333%;
+
+      & + div {
+        flex-grow: 1;
+      }
+    }
+
+    &.right {
+      align-self: flex-end;
+    }
+
+    &.left {
+      align-self: flex-start;
+    }
+  }
+
+  @include breakpoints.media-breakpoint-down(md) {
+    flex-direction: column;
+
+    & > div {
+      width: 100%;
+    }
+    & > img {
+      &.right,
+      &.left {
+        max-width: 100%;
+        align-self: center;
+      }
+    }
+  }
+
+  @each $size, $width in variables.$container-max-widths {
+    @include breakpoints.media-breakpoint-up($size) {
+      width: $width;
+    }
+  }
+}
+
+/* TODO: Create Media Queries and size main accordingly */
+
+footer {
+  color: #333;
+  display: flex;
+  background-color: #ced4db;
+  min-height: 1rem;
+  gap: 3rem;
+  padding: 2rem;
+
+  @include breakpoints.media-breakpoint-down(md) {
+    gap: 2rem;
+    flex-direction: column;
+  }
+
+  section {
+    flex-basis: 33%;
+    flex-grow: 1;
+    font-size: 1rem;
+    h2 {
+      font-size: 1rem;
+      font-weight: bold;
+    }
+    address {
+      font-style: normal;
+    }
+    a {
+      text-decoration: none;
+      color: #333;
+      &:hover {
+        text-decoration: underline;
+        color: #111;
+      }
+    }
+  }
+}

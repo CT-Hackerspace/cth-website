@@ -1,0 +1,10 @@
+baseurl: https://cthacker.space
+brand: CT Hackerspace
+tag: Learn. Make. Share.
+description: CT Hackerspace Website
+brandImageUrl: uploads/CTHLogo.png
+social-media-account:
+  twitter: "@cthackerspace"
+published: 2024-04-09
+# default for robots to encourage indexing of content (search pages should set this to true)
+noindex: false

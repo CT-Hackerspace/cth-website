@@ -1,0 +1,15 @@
+<div class="breadcrumbs">
+
+  <a href="/">Home</a>
+
+  <% 
+    const path = await import('node:path');
+    const ext = path.extname(asset);
+    const paths = asset.slice(0, -ext.length).split('/');
+    let acc = "";
+    for (const folder of paths) {
+      acc += `/${folder}`
+      %> &gt; <a href="<%= acc %>"><%= folder %></a> <%
+    }
+  %>
+</div>

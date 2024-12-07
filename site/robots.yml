@@ -1,0 +1,5 @@
+extension: ".txt"
+no-layout: true
+disallow:
+  - /uploads/*
+  - /authors/*

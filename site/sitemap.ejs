@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <% 
+    const pages = [];// this.query("**/*.{md,ejs}");
+    const path = await import("path");
+    const url = await import("url");
+
+    for (const page of pages) {
+      const { dir, ext, name } = path.parse(page);
+      switch (ext) {
+        case ".md": break;
+        case ".ejs": {
+          if (name.startsWith("_")) continue;
+        }
+        default: continue;
+      }
+      const data = await this.getDataFor(page);
+      switch (data.extension) {
+        case ".txt":
+        case ".xml": {
+          continue;
+        }
+      }
+    
+      const getDate = (date) => {
+        if (date instanceof Date) return date.toISOString().split("T")[0];
+        if (typeof date === "string") return new Date(Date.parse(date)).toISOString().split("T")[0];
+        throw new Error("No date was found for " + page);
+      }
+      const loc = url.resolve(baseurl, name === "index" ? dir : path.join(dir, name));
+      const date = getDate(data && data.date ? data.date : published);
+  %>
+  <url>
+    <loc><%= loc %></loc>
+    <lastmod><%= date %></lastmod>
+    <changefreq><%= data.changefreq ?? "monthly" %></changefreq>
+  </url>
+  <% } %>
+</urlset>

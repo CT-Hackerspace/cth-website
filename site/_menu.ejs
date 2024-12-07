@@ -1,0 +1,23 @@
+<ul class="navbar"> <%
+  const menu = [
+    { "desc": "Home", "url": "", active: true },
+    { "desc": "Tools & Equipment", "url": "tools", active: false },
+    { "desc": "Membership", "url": "membership", active: false },
+    { "desc": "Visit", "url": "visit", active: false },
+    { "desc": "Events", "url": "events", active: false },
+    { "desc": "Blog", "url": "blog", active: false }
+  ];
+
+  for (const { active, url, desc } of menu) { %>
+    <% if (active) { %>
+        <li class="active">
+          <a href="/<%= url %>"><%= desc %></a>
+        </li>
+      <% } else { %>
+        <li>
+          <a href="/<%= url %>"><%= desc %></a>
+        </li>
+      <% } %>
+    <% } %>
+  </ul>
+</nav>
