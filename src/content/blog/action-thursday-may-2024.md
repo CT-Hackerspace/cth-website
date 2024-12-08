@@ -11,7 +11,7 @@ description:
 author: cthackerspace
 ---
 
-Keeping a Makerspace Spick and Span
+## Keeping a Makerspace Spick and Span!
 
 This past weekend, the members of CT Hackerspace rolled up their sleeves and gave the space a much-needed deep cleaning. As a community workshop bustling with creativity and projects, it's easy for things to get a bit cluttered and messy. But we were determined to restore order and cleanliness to our beloved makerspace.
 
@@ -19,7 +19,7 @@ This past weekend, the members of CT Hackerspace rolled up their sleeves and gav
 
 We started by giving the floors a thorough mopping, ensuring every nook and cranny was spotless. Then, in a bid to optimize the layout, we relocated the large whiteboard to the opposite side of the room, creating a more open and collaborative space. The workbenches and tables were next on our list – we reorganized them, discarding any unnecessary clutter, and scrubbed them until they shone like new.
 
-![Some art!](/uploads/2024/05/IMG_20240516_200030.jpg)
+![Some art!](/uploads/2024/05/IMG_20240516_202030.jpg)
 
 Finally, we tackled the electronics workbench, a hub of soldering irons, components, and circuit boards. With meticulous care, we sorted through the various parts, organized them neatly, and cleaned every surface until it was pristine. By the end of the day, CT Hackerspace had been transformed into a clean, inviting, and functional space, ready to inspire and facilitate countless future projects.
 

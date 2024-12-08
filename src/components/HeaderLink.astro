@@ -6,7 +6,7 @@ type Props = HTMLAttributes<"a">;
 const { href, class: className, ...props } = Astro.props;
 const pathname = Astro.url.pathname.replace(import.meta.env.BASE_URL, "");
 const subpath = pathname.match(/[^\/]+/g);
-const isActive = href === pathname || href === "/" + (subpath?.[0] || "");
+const isActive = href === pathname || href === `/${subpath?.[0] || ""}`; // "/" + (subpath?.[0] || "");
 ---
 
 <li class:list={[{ active: isActive }]}>
@@ -14,47 +14,3 @@ const isActive = href === pathname || href === "/" + (subpath?.[0] || "");
         <slot />
     </a>
 </li>
-<style lang="scss">
-    @use "../styles/_variables";
-    @use "../styles/_breakpoints";
-
-    li {
-        display: flex;
-        align-items: stretch;
-
-        a {
-            color: #ced4db;
-            display: flex;
-            align-items: center;
-            text-decoration: none;
-            padding: 0.375rem 0.5rem;
-
-            &:hover,
-            &:focus,
-            &:active {
-                color: #ffffff;
-                text-decoration: none;
-            }
-        }
-        &.active a {
-            color: #ffffff;
-        }
-    }
-    @include breakpoints.media-breakpoint-down(md) {
-        > li {
-            display: block;
-
-            a {
-                display: block;
-                padding: 0.5rem 1rem;
-                &:focus,
-                &:hover {
-                    background-color: #00000040;
-                }
-            }
-            &.active a {
-                background-color: #00000040;
-            }
-        }
-    }
-</style>

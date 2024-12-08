@@ -1,6 +1,6 @@
 ---
 title: CT Hackerspace!
-description: The oldest Makerspace in CT
+description: The First and Oldest Makespace in Connecticut
 date: 4/8/2024
 ---
 
