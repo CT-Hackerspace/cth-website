@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Launching of Nation of Makers!
-
 I am happy to announce our efforts in creating the Nation of Makers.
 
 Bill Saturno

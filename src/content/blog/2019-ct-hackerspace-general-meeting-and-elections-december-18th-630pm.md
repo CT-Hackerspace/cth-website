@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# 2019 CT Hackerspace General Meeting and Elections December 18th 6:30pm
 
 ![Meeting Notice](/uploads/2019/11/meeting-notice.png)
 

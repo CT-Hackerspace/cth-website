@@ -9,8 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Introduction to Microcontrollers Workshop 2/20: The BBC Micro:bit - All levels welcome!
-
 ![intro-to-microcontrollers-capture-1024x572.png](/uploads/2021/02/intro-to-microcontrollers-capture-1024x572.png)
 
 This class is open to all skill levels. It is being presented as a 100% fundraiser to help recoup lost funds due to a glitch in paypal.

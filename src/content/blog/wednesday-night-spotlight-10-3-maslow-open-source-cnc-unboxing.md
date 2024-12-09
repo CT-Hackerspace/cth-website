@@ -8,13 +8,9 @@ description: ""
 author: Bill
 ---
 
-# Wednesday Night Spotlight 10/3 - Maslow Open Source CNC Unboxing
-
 ![unboxing](/uploads/2018/09/unboxing-rubber-stamp-on-white-print-impress-overprint-eps-vector_csp38655740-e1537965490261.jpg)
 
 <hr />
-
-# Wednesday Night Spotlight 10/3 - Maslow Open Source CNC Unboxing
 
 ![Maslow Logo](/uploads/2018/09/maslow-logo-300x81.png)
 

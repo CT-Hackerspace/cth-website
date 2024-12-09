@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace Tailgating Social at Goshen Hamfest May 22nd
 
 The normally scheduled month Retro - Computing and Gaming Event will be bumped to next Saturday, May 29th
 

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Game ON! CT Hackerspace hosts Waterbury Area Gaming Society
 
 ![game-on-300x141.gif](/uploads/2017/08/game-on-300x141.gif)
 

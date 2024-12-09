@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# BACK BY POPULAR DEMAND! Learn to Weld things that don’t fall apart.
 
 Many DIY projects require welding.  This can be a show stopper for many hobbyists.  Do you dream of building a roll cage, bicycle, tools or furniture? In this two day introductory workshop, you will learn the fundamentals of welding. Taught by Wade Barocsi an automotive welding and metallurgy instructor at NVCC.
 

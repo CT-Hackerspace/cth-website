@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Electric Race Car build is Back at CT Hackerspace 2/11
-
 ![tesla-fire.gif](/uploads/2021/02/tesla-fire.gif)
 
 Back from a brief hiatus, Mark is back and ready to jump start the continuing our race car for the Power Racing Series! Join us February 11th at 7 pm!

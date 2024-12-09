@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# We're revving up our ELECTRIC VEHICLE Nights at CT Hackerspace!
 
 ![Power Racing Logo](/uploads/2019/07/power-racing-logo.jpg)
 

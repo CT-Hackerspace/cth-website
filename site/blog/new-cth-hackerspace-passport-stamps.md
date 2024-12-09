@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# New CTH Hackerspace Passport Stamps
 
 ![CTH Hackerspace Passport Stamp](/uploads/2015/10/Stamp1_3.jpg)
 

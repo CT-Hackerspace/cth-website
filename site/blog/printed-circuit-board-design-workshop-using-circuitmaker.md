@@ -8,7 +8,6 @@ description: ""
 author: Chuck S
 ---
 
-# Printed Circuit Board Design Workshop using CircuitMaker
 
 ![](/uploads/2017/08/CM-logo.png)So, you are finally ready to take the leap off your prototype breadboard and make your own circuit! Don't be intimidated as today's tools make it easier than ever to make it happen. Save frustration and gain better knowledge in building your own printed circuit board and layout designing. [In this Workshop](https://www.meetup.com/CT-Hackerspace/events/242540410/), we will be utilizing CircuitMaker.
 

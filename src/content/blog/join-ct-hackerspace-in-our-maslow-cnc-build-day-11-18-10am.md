@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Join CT Hackerspace in our Maslow CNC build day 11/18 10AM!
 
 ![shot-5-art-e1538943682974-150x150.jpg](/uploads/2018/10/shot-5-art-e1538943682974-150x150.jpg)
 

@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace hosts Car Building for the Power Racing Series
-
 ![PRS Logo](/uploads/2019/03/prs-logo.jpg)
 
 ## Every Second Thursday, 7PM

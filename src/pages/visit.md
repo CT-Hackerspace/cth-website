@@ -8,7 +8,6 @@ author: CThackerspace
 layout: ../layouts/BaseLayout.astro
 ---
 
-# Come Vist Us!
 
 CT Hackerspace Inc. is located at 30 Echo Lake Road Watertown, CT 06795
 

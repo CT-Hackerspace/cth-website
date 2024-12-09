@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Maslow Open Source CNC Start a Success at CT Hackerspace
 
 ![Shot 5](/uploads/2018/10/shot-5-art-e1538943682974-150x150.jpg)
 

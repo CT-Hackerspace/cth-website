@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace PC Lab Ribbon Cutting LAN PARTY November 30th!
 
 ![Mr Robot Premiere Recap](/uploads/2019/11/mr-robot-season-3-premiere-recap-elliot-e1573418391418.jpg)
 

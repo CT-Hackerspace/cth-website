@@ -8,7 +8,6 @@ author: K10er
 layout: ../layouts/BaseLayout.astro
 ---
 
-# Who are We?
 
 ![CTH Logo](/uploads/2023/04/hack.jpg)
 

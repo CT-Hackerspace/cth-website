@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# New, Easy Access to CT Hackerspace Forum on Google Groups
-
 Do you use the CT Hackerspace  forum / email list via google groups?![](http://aust-logistics.com/wp-content/uploads/2014/04/google-groups-420x420.jpg) Participate in our online discussions! Be part of an active online community. By request, the Discussion board link has been added to the menu bar. Jump into the conversation [on line here](https://groups.google.com/forum/#!forum/cthackerspace).
 
 [CTHackerspace Google Group](https://groups.google.com/forum/#!forum/cthackerspace).

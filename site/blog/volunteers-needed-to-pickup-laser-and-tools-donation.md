@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# VOLUNTEERS NEEDED to pickup LASER and tools Donation
 
 ![moving (B&W)](/uploads/2019/02/moving-black-white.jpg)
 

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace starts the WanHao 20/20 Challenge
 
 The WanHao 20/20 Challenge
 

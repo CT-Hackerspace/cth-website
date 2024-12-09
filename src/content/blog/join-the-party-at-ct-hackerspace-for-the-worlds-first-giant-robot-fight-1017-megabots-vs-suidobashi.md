@@ -10,7 +10,6 @@ description: ""
 author: Bill
 ---
 
-# Join the party at CT Hackerspace for the World's First Giant Robot Fight 10/17, Megabots vs. Suidobashi
 
 ![robot-duel-megabots-live.jpg](/uploads/2017/10/robot-duel-megabots-live.jpg)
 

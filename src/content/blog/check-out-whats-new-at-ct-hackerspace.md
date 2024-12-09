@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Check out What's New at CT Hackerspace
 
 If you are tired of watching the latest kitten video that Aunt Marge sent to you, step out and get down to CT Hackerspace. Here is just a few things that you possibly missed out on lately:
 

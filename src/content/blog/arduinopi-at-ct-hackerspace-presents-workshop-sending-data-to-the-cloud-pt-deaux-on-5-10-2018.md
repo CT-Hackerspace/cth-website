@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# ArduinoPi at CT Hackerspace Presents Workshop: Sending Data to the Cloud
 
 [![Arduino Communications](/uploads/2018/04/arduino-communications-300x169.png)](https://www.meetup.com/CT-Hackerspace/events/249832730/)
 

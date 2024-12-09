@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# COVID-19 Update
 
 As additional cases are confirmed across the U.S., we want you to know that the CT Hackerspace team continues to monitor news and public information sources including Centers for Disease Control (CDC); World Health Organization; and state and local health departments for the communities that we are proud to be a part of.
 

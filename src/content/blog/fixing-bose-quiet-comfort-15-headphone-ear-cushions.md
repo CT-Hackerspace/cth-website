@@ -11,7 +11,6 @@ description: ""
 author: Bremster
 ---
 
-# Fixing Bose Quiet Comfort 15 Headphone Ear Cushions
 
 ![Bose QC15 Headphones](/uploads/2017/02/QC15.png)I bought the Bose Quiet Comfort QC15 headphones about 5 or 6 years ago. They are great. However, one of the ear pads started coming apart, and no sooner did that one finish unraveling, the other side started. The headphones were still usable but much less comfortable and didn't stay in place on my head. eBay has 'replacements' but the comments regarding the fit were not flattering. I figured it would be worth trying to fix them on my own, because, well, I'd have to order some crappy replacements anyways so I might as well really ruin the originals first.
 

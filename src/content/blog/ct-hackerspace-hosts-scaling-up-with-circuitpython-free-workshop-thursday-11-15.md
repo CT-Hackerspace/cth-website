@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace hosts 'Scaling Up with CircuitPython' FREE Workshop Thursday 11/15
 
 [![Python Cartoon](/uploads/2018/11/python-cartoon.png)](https://www.meetup.com/CT-Hackerspace/events/256072526/)
 

@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace 10th Anniversary Favorite - Introduction to Soldering Electronics May 17th 2020
 
 ![You're holding it Wrong](/uploads/2020/03/soldering-tee-shirt-300x225.jpg)
 

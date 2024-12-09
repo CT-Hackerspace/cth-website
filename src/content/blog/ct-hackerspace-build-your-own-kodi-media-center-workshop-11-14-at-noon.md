@@ -10,7 +10,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace Build Your Own Kodi Media Center Workshop: 11/14 at noon
 
 ![Kodi](/uploads/2020/11/kodi-image.png)
 

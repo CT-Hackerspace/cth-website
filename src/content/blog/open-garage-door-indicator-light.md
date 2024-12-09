@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# Open Garage Door Indicator Light
 
 ![garage door open indicator comic](/uploads/2016/12/GarageDoorIndicator-comic-300x168.png)
 

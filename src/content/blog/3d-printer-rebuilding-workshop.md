@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# 3D Printer Rebuilding Workshop July 18th
 
 ![Lulzbot Doctors](/uploads/2020/07/lulzbot-doctors.png)
 

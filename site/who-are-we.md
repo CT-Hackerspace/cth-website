@@ -7,8 +7,6 @@ description: ""
 author: K10er
 ---
 
-# Who are We?
-
 ![CTH Logo](/uploads/2023/04/hack.jpg)
 
 CT Hackerspace is a DIY and Technology oriented group located in Watertown, Connecticut. We provide a community workshop and prototyping center to help make your ideas real.

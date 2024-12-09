@@ -8,8 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Upcoming Welding Class!
-
 ![Clean](/uploads/2022/02/clean_489576933.jpeg)
 
 Want to learn how to weld?

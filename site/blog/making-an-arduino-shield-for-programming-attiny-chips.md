@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# Making an Arudino Shield for Programming an ATTiny
 
 ![New ATTINY Arduino Shield](/uploads/2015/07/NewATTINY-1.jpg)
 

@@ -10,7 +10,6 @@ todo:
   - Fix Caption Problem
 ---
 
-# We're searching for you! Start the Conversation
 
 <figure><a href="http://www.bit.ly/cthackerspace"><img id="attachment_335" src="/uploads/2015/07/CTH-Newsgroup-Signup-Snip.png" alt="CTH Newsgroup Signup" class="aligh-right"><figcaption>Start the Conversation Today!</figcaption></a></figure>
 

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# FYI - CTH New food policy
 
 As you know, we try to keep rules to a minimum as we all respect the hackerspace and community. Due to a recent ongoing problems over the last few months of pests finding discarded food remnants in trash containers, the board has requested that **all your food related trash, recyclables, and empty containers be taken with you out of the space at the end of your visit **- This includes cans and bottles purchased from the refrigerator.
 

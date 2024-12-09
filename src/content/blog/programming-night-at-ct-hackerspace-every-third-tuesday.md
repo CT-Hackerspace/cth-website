@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Programming Night at CT Hackerspace Every third Tuesday!
-
 ![Software Developer](/uploads/2017/01/software-developer-300x192.jpg)
 
 Come join us once a month (every third Tuesday) to share and learn about the craft of software development at CT Hackerspace. We are a group of developers, programmers, hackers, creators and inventors committed to learning new coding skills, and furthering our software projects.

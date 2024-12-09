@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Saturday Movie Special - Those Magnificent Men in their Flying Machines
 
 ![Magnificent Men Poster](/uploads/2021/01/Magnificent_Men_poster.jpg)
 

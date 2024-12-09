@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Hold the Date for Saturday - Get Involved in our Online Community.
 
 ![WebBuild image](/uploads/2015/07/WebBuild-image.png)
 

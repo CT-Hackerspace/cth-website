@@ -11,7 +11,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Action Meeting 2nd Tuesday (6-8-2021): Server Rack Send-off and Camera Mounting
 
 Ideas require actions for the best results. The CT Hackerspace invites any members of the community to join them on Action Meeting night.
 

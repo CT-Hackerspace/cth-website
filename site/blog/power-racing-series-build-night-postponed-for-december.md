@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Power Racing Series Build Night Postponed for December
 
 UPDATE! I have just learned the Mark is Canceling December Power Racing Series in an abundance of caution.
 

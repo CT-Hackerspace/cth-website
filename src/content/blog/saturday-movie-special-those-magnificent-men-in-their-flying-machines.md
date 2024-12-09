@@ -9,8 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Saturday Movie Special - Those Magnificent Men in their Flying Machines
-
 ![Magnificent Men Poster](/uploads/2021/01/Magnificent_Men_poster.jpg)
 
 Join us for some movie fun and good conversation at CT Hackerspace. Dana will be hosting the movie "Those Magnificent Men in their Flying Machines"

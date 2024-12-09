@@ -9,8 +9,6 @@ description: ""
 author: Bill
 ---
 
-# The StrandBeast Project to Start at CT Hackerspace:
-
 ![Adam Savage](/uploads/2018/10/adamsavage-3daybuild-pod.jpg)
 
 ![Adam Savage](/uploads/2018/10/autodesk-logo.png)

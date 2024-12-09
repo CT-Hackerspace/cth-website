@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace hosts another 10th Anniversary Favorite - MAKE YOUR OWN 3D Printer Workshop 4/25/2020
 
 ![Rep Rap Prusa](/uploads/2020/02/rep-rap-prusa.jpg)
 

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Open Space Night January 18th and Every Wednesday - Everyone Invited!
 
 Get started off right in 2017. This is the year you motivate yourself to come on down. Member and Non-Members are free to attend our always informal Open Space Night. It's time to work on your project, hang out with the group or just check out the space.
 

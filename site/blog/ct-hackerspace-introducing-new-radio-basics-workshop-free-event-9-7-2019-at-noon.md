@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace Introducing new Radio Basics Workshop - FREE EVENT, 9/7/2019 at Noon
 
 ![Radio Clipart](/uploads/2019/08/radio-clipart.png)
 

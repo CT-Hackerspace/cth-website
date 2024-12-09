@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace PC Lab Upgrade Night, Tuesday, April 6th 7pm!
 
 ![Computer Lab](/uploads/2021/04/clippy-computer-lab.jpg)
 

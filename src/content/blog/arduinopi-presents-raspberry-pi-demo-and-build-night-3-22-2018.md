@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# ArduinoPi Presents: Raspberry Pi Demo and Build Night 3/22/2018
 
 ![Raspberry Pi Logo](/uploads/2018/03/raspberry-pi-logo.jpg)
 

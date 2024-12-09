@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace's Hacking & Developer Workshop NEW DATE and TIME: JAN 12th, 4pm
 
 [![schedule-change.jpg](/uploads/2018/12/schedule-change.jpg)
 

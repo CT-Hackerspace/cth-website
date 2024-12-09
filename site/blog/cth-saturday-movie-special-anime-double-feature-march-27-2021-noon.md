@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CTH Saturday Movie Special - Anime Double feature March 27, 2021 Noon
 
 ![special-presentation.gif](/uploads/2021/03/special-presentation.gif)
 

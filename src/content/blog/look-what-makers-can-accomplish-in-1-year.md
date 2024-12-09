@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Look what MAKERS can Accomplish in 1 Year!
 
 **Last Year, I was personally invited with other makers from around the country by the White House Office of Science and Technology Policy (OSTP) to participate in and help facilitate starting the Nation of Makers Organization. The last year has been amazing, and I am continued to be impressed by those in the Maker Community. \*\*** I just received my latest email update from Nation of Makers, and, after stepping back, what the Movers and Shakers (or should I coin the phrase "Makers and Shakers"), in the Maker Movement Can Accomplish. Even the White House was amazed on how effective the maker community has been in bringing about this project.
 

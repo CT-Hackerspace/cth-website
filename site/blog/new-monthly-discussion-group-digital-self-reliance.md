@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# New Monthly Discussion Group - Digital Self Reliance
 
 ![DSR Idea](/uploads/2017/10/DSR-idea-1-277x300.png)
 

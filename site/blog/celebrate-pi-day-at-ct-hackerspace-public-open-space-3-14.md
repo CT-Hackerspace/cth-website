@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Celebrate Pi Day at CT Hackerspace Public Open Space 3/14
 
 Celebrate Pi Day at CT Hackerspace Tonight.
 

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Kreate your own Kodi Media Center Workshop at CT Hackerspace 4/14/2018 1pm
 
 ![Kodi](/uploads/2018/03/SplashKodi16-300x136.png)
 

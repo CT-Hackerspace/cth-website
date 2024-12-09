@@ -9,8 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Time is running out to sign up for the NORTH EAST GRID DOWN COMMUNICATIONS COURSE
-
 This 2 day intense course is happening Saturday, July 18th and Sunday, July 19th.
 
 Secure your place today!

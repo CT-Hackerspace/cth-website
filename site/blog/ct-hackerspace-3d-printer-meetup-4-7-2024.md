@@ -10,7 +10,6 @@ description: ""
 author: CThackerspace
 ---
 
-# **_Good day fellow Makers!_** On April 4th CTH will be doing a 3d printing meet up.
 
 ## Starting at 9:30am and running till 6pm. We will be chatting about 3d printers and projects. Feel free to bring your own printers if you have questions, want to show off what you are working on, etc.
 

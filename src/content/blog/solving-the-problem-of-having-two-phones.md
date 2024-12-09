@@ -12,9 +12,6 @@ description: ""
 author: Bremster
 ---
 
-# Solving the Problem of having Two Phones
-
-![solving multiple cell phones](/uploads/2017/06/multiple-cell-phones-300x199.jpg)
 
 I have a problem, I have two cell phones. One is my personal phone and the other is work-issued. Carrying around both drives me bonkers. I don't even like carrying one! I did find an adequate (not perfect) solution to scale back down to one phone while not suffering any serious inconveniences (and keeping my personal/work information, contacts and phone numbers separate). This setup has been working for several months and I am satisfied with the results, even with the minor limitations. Here's how I did it... My [personal phone](/blog/qi-charging-phone-wasnt-a-failure-after-all/) is old and small, runs Android, I like it.
 

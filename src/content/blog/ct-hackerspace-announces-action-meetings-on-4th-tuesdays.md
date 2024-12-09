@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace announces Action Meetings on 4th Tuesdays
 
 Building on the great success of our first meeting, CT Hackerspace will start monthly Action Meetings to build on the initial success!
 

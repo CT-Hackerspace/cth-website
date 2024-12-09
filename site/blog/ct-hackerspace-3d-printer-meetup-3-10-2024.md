@@ -10,7 +10,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace 3D Printer Meetup! - 3/10/2024
 
 Today we helped quite a few people fix their 3d printers, did some instructional work on 3d printing software, and gave a crash course in 3d printing 101! Miss a meetup, miss a lot!
 

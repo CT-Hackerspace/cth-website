@@ -13,6 +13,4 @@ description: ""
 author: Bill
 ---
 
-# Watertown, CT Sparks31 TICOM Class - Postponed
-
 This event has been postponed due to a scheduling conflict.

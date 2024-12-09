@@ -8,8 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CTH hosts Cybertek Group Meeting and Icebreaker October 24th
-
 ![cybertek-radios-bw.jpg](/uploads/2020/09/cybertek-radios-bw.jpg)
 
 CT Hackerspace is excited to host an icebreaker meeting for individuals of all interest and skill levels to discuss the technology of self-reliance, and preparedness, and the establishment of alternate communications and networking systems for the region. See you on October 24th, 8pm!

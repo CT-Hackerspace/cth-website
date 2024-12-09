@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# By Popular Demand, CT Hackerspace Now has a Facebook Group Page!
 
 New!
 

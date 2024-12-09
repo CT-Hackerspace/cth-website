@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Internet of Things (IOT) workshop - Working with the ESP8266 10/10/15 1:00 PM
-
 **October 10th, 2015  1:00PM - Cost: $45 - 2hrs**
 
 ![600_441722739.jpeg](http://photos4.meetupstatic.com/photos/event/a/b/3/600_441722739.jpeg)

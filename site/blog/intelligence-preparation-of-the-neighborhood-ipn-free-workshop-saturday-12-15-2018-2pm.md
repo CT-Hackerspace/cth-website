@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Intelligence Preparation of the Neighborhood (IPN) FREE Workshop Saturday, 12 / 15, 2018 2PM
 
 ![gold-thingy-300x300.jpg](/uploads/2018/11/gold-thingy-300x300.jpg)
 

@@ -10,7 +10,6 @@ description: ""
 author: Bill
 ---
 
-# 3 Axis Pololu Stepper Driver Breakout Board
 
 [![Pololu Breakout Board](/uploads/2015/07/bob0_1-300x225.jpg)](/uploads/2015/07/bob0_1.jpg)
 

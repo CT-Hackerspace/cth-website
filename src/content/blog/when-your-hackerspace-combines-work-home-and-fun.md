@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# When your Hackerspace combines Work, Home and Fun!
-
 ![Stanzo](/uploads/2017/10/Stanzo-Picture-Capture-150x150.png)
 
 <hr />

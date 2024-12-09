@@ -11,7 +11,6 @@ description: 3D Printer Meetup!
 author: CThackerspace
 ---
 
-# 3D Printer Meetup 3/3/2024
 
 **This event is hosted by Eric Schupp**
 

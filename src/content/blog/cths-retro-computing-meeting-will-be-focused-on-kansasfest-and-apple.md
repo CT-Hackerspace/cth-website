@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CTH's Retro Computing meeting will be focused on Kansasfest and Apple ][
 
 ![20200724_204043-1024x768.jpg](/uploads/2020/07/20200724_204043-1024x768.jpg)
 

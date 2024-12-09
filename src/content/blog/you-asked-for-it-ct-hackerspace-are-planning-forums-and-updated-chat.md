@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# You asked for it! CT Hackerspace are planning forums and updated chat
 
 ![you asked for it](/uploads/2021/01/you-asked-for-it.png)
 

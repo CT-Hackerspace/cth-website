@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# CTH hosts Build a Website in the Cloud using Microsoft Azure 10/3 7pm
 
 ![microsoft-azure_logo](/uploads/2016/09/Microsoft-Azure_logo-300x101.png)
 

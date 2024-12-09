@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# CTH hosts class: Intel Arduino 101 - The Basics on 9/22 at 7pm
 
 ![arduino-101-board](/uploads/2016/09/arduino-101-board-150x150.jpg)
 

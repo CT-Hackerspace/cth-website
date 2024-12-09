@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Attend FREE Virtual Reality Demos and Talk 9/27
-
 [![virtual-reality](/uploads/2016/09/virtual-reality-300x150.jpg)](https://www.meetup.com/CT-Hackerspace/events/234181265/)
 
 <hr />

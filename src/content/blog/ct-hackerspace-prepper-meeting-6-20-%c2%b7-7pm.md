@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace Prepper Meeting POSTPONED
 
 ![Radios](/uploads/2020/06/radios.jpg)
 

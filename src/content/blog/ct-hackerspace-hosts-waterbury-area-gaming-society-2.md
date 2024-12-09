@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace hosts Waterbury Area Gaming Society
 
 ![Play Again!](/uploads/2017/06/pLAY-AGAIN-300x203.png)
 

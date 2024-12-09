@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# Program an ATTINY using an Arduino
 
 [![attiny adruino shield](/uploads/2015/07/attinyshield2-300x225.jpg)](/uploads/2015/07/attinyshield2.jpg)After recently finishing my ATTINY Programming Shield for Arduino Project, I was getting anxious to start trying to program some chips. Although I was eventually successful, this was definitely a learning experience. I will document what I did on this web page. Here’s what I used: Arduino Uno with ATmega168 Arduino IDE 1.0.1 ATTINY85 chip My DIY ATTINY programing shield (or breadboard) NOTE: Instead of using a shield, you can use a breadboard:
 

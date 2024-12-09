@@ -13,7 +13,7 @@ const blog = defineCollection({
     slug: z.string(),
     // A string coerced into a date
     date: z.coerce.date(),
-    categories: z.array(z.string()),
+    categories: z.array(z.string()).optional(),
     description: z.string().or(z.null()),
     author: z.string(),
   }),

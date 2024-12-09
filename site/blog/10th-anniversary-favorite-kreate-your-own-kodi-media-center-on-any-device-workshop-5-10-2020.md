@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# 10th Anniversary Favorite - Kreate your own Kodi Media Center on any device Workshop 5/10/2020
 
 ![Splash Kodi](/uploads/2018/03/SplashKodi16-1024x465.png)
 

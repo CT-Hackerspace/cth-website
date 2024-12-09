@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# YES! CT Hackerspace is open December 26th for Public Night / Open Space
 
 ![open](/uploads/2018/12/open-152933_960_720-300x157.png)
 

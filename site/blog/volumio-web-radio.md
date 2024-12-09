@@ -12,7 +12,6 @@ description: ""
 author: Bremster
 ---
 
-# New Web Radio at CT Hackerspace
 
 You may be aware that CTH has a stereo which can play music from a dedicated MP3 Player or internet radio stations via the nearby netbook. The netbook doesn’t work so well in this setup with OS freezing and audio pauses due to stream buffering. As a result, the stereo system is getting an upgrade in the form of a dedicated music streamer!
 

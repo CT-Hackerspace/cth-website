@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace hosts MAKE YOUR OWN 3D PRINTER with Instructor Paul Langdon 11/10
 
 **[Register Today](https://www.meetup.com/CT-Hackerspace/events/255085507/) for our MAKE YOUR OWN 3D Printer Workshop!**
 

@@ -13,8 +13,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace hosts monthly Retro Computing Meeting for Vintage Computer Enthusiasts
-
 ![](/uploads/2019/03/6o0.gif)
 
 First meeting scheduled for Saturday, March 23, 2019 , 2PM. Monthly Meetings to follow on 4th Saturdays of the month.

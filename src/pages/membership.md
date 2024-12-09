@@ -8,8 +8,6 @@ author: CThackerspace
 layout: ../layouts/BaseLayout.astro
 ---
 
-# Membership
-
 Membership is a mere $60 a month! ...a small price to pay for eternal happiness. ($50/month with recurring payment) Student Membership is available for $25 a month. You need to give starving students a break!
 
 ## Benefits

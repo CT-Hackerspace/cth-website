@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Jump in! Help out CT Hackerspace Clean Up Party 11/19 and Space Upgrade Weekends 12/3
 
 ![clean-up-messy-office-messy-desk-sloppy-messy-coworker-office-prwf92-clipart](/uploads/2016/11/clean-up-messy-office-messy-desk-sloppy-messy-coworker-office-PRWF92-clipart-300x215.gif)
 

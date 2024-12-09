@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Using a Lathe / Woodturning : Bowl Making
 
 ![bowls](/uploads/2015/09/bowls-image-150x150.jpg)
 

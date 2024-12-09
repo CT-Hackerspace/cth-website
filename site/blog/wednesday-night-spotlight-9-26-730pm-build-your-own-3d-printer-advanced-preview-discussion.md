@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Wednesday Night Spotlight 9/26, 7:30pm: Build Your Own 3D Printer advanced Preview / Discussion
 
 ![langdons 3D printer](/uploads/2018/09/langdons-3d-printer-300x170.png)
 

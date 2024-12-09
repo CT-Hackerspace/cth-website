@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Hacking & Developer Workshop at CT Hackerspace now on Second Saturdays
 
 ![Computer and Developer Workshop at CTH](/uploads/2019/02/computers-on-desk-300x200.png)
 

@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# Multi-Rotor Workshop, Day 2
 
 ![MRBD2-01](/uploads/2015/10/MRBD2-01-300x225.jpeg)
 

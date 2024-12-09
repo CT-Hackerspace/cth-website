@@ -8,8 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CTH could use some Laser assistance.
-
 ![lp-640-laser.png](/uploads/2020/07/lp-640-laser.png)
 
 Help Needed!

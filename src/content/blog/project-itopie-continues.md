@@ -10,8 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# Project iTopie Continues...
-
 [![iTopie MDF Right](/uploads/2016/07/2016-07-23-09.21.03-1-225x300.jpg)](/uploads/2016/07/2016-07-23-09.21.03-1.jpg)
 
 No, it's not done yet but the [iTopie project](/blog/itopieframe/) continues. As you can see, the frame is painted, the parts are printed and the assembly process is well underway. I'm very satisfied with how the frame came out. It is solid and my added handle is the bee's knees. The handle is slightly rearward of the current CG but I will try to fix that by putting any additional components as far rearward as possible. It's still a handy handle, though!

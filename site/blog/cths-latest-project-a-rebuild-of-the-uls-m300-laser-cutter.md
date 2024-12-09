@@ -10,7 +10,6 @@ description: ""
 author: Bill
 ---
 
-# CTH's latest project: A Rebuild of the ULS M300 laser cutter.
 
 <figure>
   <a href="/uploads/2015/11/CTH-Make-Haven-PC-Photo-Laser-Cutter-150x150.jpg">

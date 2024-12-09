@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Carpool to LBR's Test Rocket Payload Launch
-
 ![Car Pool](/uploads/2017/08/carpool-clipart-150x150.jpg)
 
 <hr />

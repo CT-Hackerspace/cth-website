@@ -9,8 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace hosts another 10th Anniversary Favorite -Arduino microcontroller Workshop (on ARDUINO DAY 4/21/2020)
-
 ![Arduino Day 2020!](/uploads/2020/02/arduino-day-2020-Capture.png)
 
 CT Hackerspace will be providing those who attend free sensors to add their own projects as well as raffling off a new official Arduino UNO Super Starter Kit to one of the attendees - One of the most popular microcontrollers in use.

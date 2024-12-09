@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CTH 10th Anniversary Favorite - LEARN TO WELD THINGS THAT DON'T FALL APART!
 
 **_Two DAY CLASS 4/23 and 4/26_**
 

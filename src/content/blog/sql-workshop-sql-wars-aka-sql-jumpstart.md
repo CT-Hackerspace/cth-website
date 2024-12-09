@@ -8,8 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# SQL Workshop: SQL Wars aka SQL Jumpstart
-
 Felt left back in this data-centric era?
 
 ![SQL Icon](/uploads/2015/08/sql-icon-e1439600518711.png)

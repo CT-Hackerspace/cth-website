@@ -10,8 +10,6 @@ description: ""
 author: Bill
 ---
 
-# Introduction to the Laser Cutting : Safety, Basics, and Operation - Feb 6th, 6pm
-
 ![frickin-laser-beams2.jpg](/uploads/2021/01/frickin-laser-beams2.jpg)
 
 As we wait for the repairs on the CT Hackerspace Laser, member Joe P is offering time and instruction utilizing his laser that resides at the space. If you have a digital design and/or laser-able item, bring it to class.  

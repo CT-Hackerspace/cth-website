@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CTH hosts Cybertek Group Meeting and Icebreaker October 24th
 
 ![cybertek-radios-bw.jpg](/uploads/2020/09/cybertek-radios-bw.jpg)
 

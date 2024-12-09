@@ -2,6 +2,7 @@
 @use "variables";
 @use "breakpoints";
 @use "sass:color";
+@use "breadcrumbs-config";
 
 html {
     height: 100%;
@@ -63,7 +64,7 @@ hr::after {
     clear: both;
 }
 
-nav {
+nav:not(.c-breadcrumbs) {
     display: flex;
     justify-content: space-between;
     background-color: #343a40;

@@ -1,10 +1,8 @@
 ---
-title: CT Hackerspace!
+title: Welcome to the CT Hackerspace Website!
 description: The First and Oldest Makespace in Connecticut
 date: 4/8/2024
 ---
-
-# Welcome to the CT Hackerspace Website!
 
 CT Hackerspace is a DIY and Technology oriented group located in Watertown, Connecticut. We provide a community workshop and prototyping center to help make your ideas real.
 

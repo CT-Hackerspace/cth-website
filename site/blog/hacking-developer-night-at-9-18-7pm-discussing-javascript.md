@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Hacking & Developer Night at 9/18 7pm: Discussing JavaScript
 
 ![](/uploads/2018/09/crossword-puzzle-crop-150x150.jpg)
 

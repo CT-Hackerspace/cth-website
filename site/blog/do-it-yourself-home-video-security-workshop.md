@@ -8,7 +8,6 @@ description: ""
 author: Chuck S
 ---
 
-# Do It Yourself Home Video Security Workshop
 
 ![](/uploads/2017/08/security-cameras-300x169.jpg)
 

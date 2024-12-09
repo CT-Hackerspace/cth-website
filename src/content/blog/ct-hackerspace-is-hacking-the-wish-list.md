@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace is hacking the Wish List
 
 ![Want List](/uploads/2017/02/wantlist-150x150.jpg)
 

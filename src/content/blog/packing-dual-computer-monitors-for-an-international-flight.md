@@ -12,8 +12,6 @@ description: ""
 author: Bremster
 ---
 
-# Packing Dual Computer Monitors For An International Flight
-
 ![Traveling with dual external monitors in a suitcase](/uploads/2017/06/IMG_0241-Copy-300x225.jpg)
 
 I recently had the opportunity to visit another country for a month. It wasn't all vacation, I did have to do 4 hours of work-work via telecommuting each day. From experience, I know staring at a small laptop screen for 4 hours x 20 days was going to drive me crazy, let alone reduce my productivity as I'm used to a dual monitor setup at the office. What's the solution to this dilemma? Honestly, I don't know yet but I can tell you what I did and what I learned.

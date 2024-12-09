@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Open Space _FRIDAY_ April 2nd
 
 ![Open Space Friday Car Turning](/uploads/2021/03/open-space-friday-car-turning.jpg)
 

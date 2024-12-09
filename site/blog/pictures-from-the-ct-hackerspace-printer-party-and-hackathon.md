@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Pictures from the CT Hackerspace Printer Party and Hackathon
 
 ---
 

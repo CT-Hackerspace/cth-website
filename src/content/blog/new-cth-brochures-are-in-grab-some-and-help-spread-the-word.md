@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# New CTH Brochures Are In! Grab some and help spread the word!
 
 Thanks to help from VistaPrint, the new full color Brochure Cards are in.
 

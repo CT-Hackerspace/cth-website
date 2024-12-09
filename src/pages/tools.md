@@ -5,7 +5,6 @@ date: 2015-06-25 02:41:28
 layout: ../layouts/BaseLayout.astro
 ---
 
-# List of equipment available at CT Hackerspace (in addition to general hand tools and work surfaces...)
 
 ## Lulzbot Mini
 

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Wednesday Night Spotlight 9/12, 7pm: Bridgeport Rebuild and Upgrade
 
 ![Bridgeport J-head diagram](/uploads/2018/09/506px-Bridgeport_J-head_diagram.png)
 

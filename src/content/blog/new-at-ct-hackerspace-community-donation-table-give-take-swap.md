@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# NEW at CT Hackerspace: Community Donation Table - Give. Take. Swap.
-
 ## Community Donation Table:
 
 ## _Give. Take. Swap.  ...Open to anyone!_

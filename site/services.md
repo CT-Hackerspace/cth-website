@@ -7,8 +7,6 @@ description: ""
 author: Bremster
 ---
 
-# Services
-
 CT Hackerspace isn't just a cool place to hang out or make stuff. It can also help you, your group or your business. That's right, we have a lot of services available. CT Hackerspace is run by volunteers and all proceeds go to making the 'space better.
 
 ## Host your Club's Meetings here!

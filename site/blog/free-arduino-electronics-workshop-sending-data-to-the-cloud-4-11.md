@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Free Arduino Electronics Workshop: Sending Data to the Cloud 4/11
 
 Thursday, April 12, 2018 7pm-
 

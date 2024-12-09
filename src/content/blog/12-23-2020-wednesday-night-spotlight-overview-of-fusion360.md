@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# 12-23-2020: Wednesday Night Spotlight : Overview of Fusion360
 
 ![Max Res Default](/uploads/2020/12/maxresdefault-1024x576.jpg)
 

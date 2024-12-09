@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# The LAST Sparks31 Class. EVER.
 
 ![Sparks B and W](/uploads/2019/04/sparks-b-and-w.png)
 

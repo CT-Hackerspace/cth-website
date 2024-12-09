@@ -8,7 +8,6 @@ description: Community donations!
 author: Bill
 ---
 
-# Community Donation Tables continues with strong Start!
 
 ## _Give. Take. Swap.  ...Open to anyone!_
 

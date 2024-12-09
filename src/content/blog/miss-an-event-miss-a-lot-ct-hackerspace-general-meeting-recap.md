@@ -8,8 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Miss an event, Miss a lot! CT Hackerspace General Meeting Recap
-
 ![General-Membership-Meeting](/uploads/2018/03/General-Membership-Meeting.png)
 
 General Member Meeting and Elections Synopsis Saturday, May 12, 2018 ; 1pm

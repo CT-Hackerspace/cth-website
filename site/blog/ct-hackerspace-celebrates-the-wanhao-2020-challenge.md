@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace celebrates the WanHao 20/20 Challenge
 
 ![wanhao-logo.png](/uploads/2017/02/wanhao-logo.png)
 

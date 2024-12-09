@@ -12,7 +12,6 @@ description: ""
 author: Bremster
 ---
 
-# Packing Dual Computer Monitors For An International Flight
 
 ![Traveling with dual external monitors in a suitcase](/uploads/2017/06/IMG_0241-Copy-300x225.jpg)
 

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace Fundraiser Update
 
 ![3D Printer Icon](/uploads/2017/02/Printing-3d-Printer-icon-150x150.png)
 

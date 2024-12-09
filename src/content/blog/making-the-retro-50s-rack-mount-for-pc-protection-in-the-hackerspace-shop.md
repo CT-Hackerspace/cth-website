@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Making the Retro 50's Rack mount for PC Protection in the Hackerspace Shop
-
 ![](/uploads/2017/08/PC-hanging-from-drawer-e1501708701319.jpg)
 
 There needs to be a plan when you install a new piece of CNC machinery in the CT Hackerspace shop to make provisions to protect the adjoining PC. Electronics don't usually like the metal flakes and sawdust flying be the circuit board while in use.

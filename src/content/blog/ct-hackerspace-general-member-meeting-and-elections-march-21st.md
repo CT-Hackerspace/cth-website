@@ -8,8 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace General Member Meeting and Elections March 21st
-
 ![Vote!](/uploads/2021/02/Vote-900x676-1.jpg)
 
 Save the date to attend CT Hackerspace's General Member Meeting on Sunday, March 21st

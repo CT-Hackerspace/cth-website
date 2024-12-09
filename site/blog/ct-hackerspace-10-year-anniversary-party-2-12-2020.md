@@ -13,7 +13,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace 10 Year Anniversary Party 2/12/2020
 
 ![10-years-anniversary.png](/uploads/2020/01/10-years-anniversary.png)
 

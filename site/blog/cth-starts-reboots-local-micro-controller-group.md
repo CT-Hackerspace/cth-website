@@ -11,7 +11,6 @@ description: ""
 author: Bill
 ---
 
-# CTH Starts / Reboots local Micro-controller Group
 
 ![microcontrollers-1-150x150.jpg](/uploads/2017/10/microcontrollers-1-150x150.jpg)
 

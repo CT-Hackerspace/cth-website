@@ -8,7 +8,6 @@ description: Chisel Sharpening Pictures
 author: CThackerspace
 ---
 
-# Chisel Sharpening rig, made by Tom MacDonald
 
 ![Chisel](/uploads/2024/01/419123892_934997414725505_2106171269146645979_n.jpg)
 

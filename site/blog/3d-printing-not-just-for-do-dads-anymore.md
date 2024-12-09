@@ -12,7 +12,6 @@ description: ""
 author: Bremster
 ---
 
-# 3D Printing: Not Just For Do-Dads Anymore
 
 [![SA-HT750 Speaker Stand Coupling](/uploads/2016/01/couplingdesign-212x300.jpg)](/uploads/2016/01/couplingdesign.jpg)
 

@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CTH to offer Introduction to Rhinoceros 3D March 6th
 
 ![Rhinoceros3d-logo.png](/uploads/2021/03/Rhinoceros3d-logo.png)
 

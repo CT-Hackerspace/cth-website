@@ -10,7 +10,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace wins the 2014 "LulzBot Hackerspace Giveaway"
 
 ![LulzBot-Mini](/uploads/2015/10/LulzBot-Mini_product-photo-1.jpg)
 

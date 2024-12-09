@@ -3,6 +3,8 @@ import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
+import { Breadcrumbs } from "astro-breadcrumbs";
+
 const { title, description } = Astro.props.content;
 
 const pageTitle = `CTH - ${title ?? "CT Hackerspace"}`;
@@ -16,9 +18,11 @@ const pageTitle = `CTH - ${title ?? "CT Hackerspace"}`;
             description={description}
         />
     </head>
-    <body>
+    <body itemscope itemtype="http://schema.org/WebPage">
         <Header />
         <main>
+            <h1>{title}</h1>
+            <Breadcrumbs ariaLabel="a structured list of navigatio links" />
             <slot />
         </main>
         <Footer />

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace is searching for 5th Anniversary T-shirt / Hoodie Ideas
 
 Get your creative juices flowing!
 

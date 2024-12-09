@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Wednesday Night Spotlight 11/21: Maslow Open Source CNC: Lets Try It Out!
 
 ![Maslow](/uploads/2018/09/image-maslow-300x225.jpg)
 

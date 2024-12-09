@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Surplus Auction
 
 ![](/uploads/2020/01/auction.jpg)
 

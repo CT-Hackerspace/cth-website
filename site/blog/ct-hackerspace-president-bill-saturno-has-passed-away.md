@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace President Bill Saturno Has Passed Away
 
 ![Bill Saturno](/uploads/2021/10/20210904-182808-pic-220826920-2.jpg)
 

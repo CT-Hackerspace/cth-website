@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# The CT Hackerspace Bridgeport Rebuild Fundraiser has been FULLY FUNDED!
-
 ![Funded Stamp](/uploads/2018/05/funded-stamp-150x150.jpg)
 
 ![Bridgeport Milling Metal](/uploads/2018/05/bridgeport-milling-metal-150x150.jpg)

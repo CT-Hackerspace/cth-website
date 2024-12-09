@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# NEW EVENT! Retro Gaming Night 4th Saturdays starting at 4pm
-
 [![Classic Systems Retro Game](/uploads/2019/06/classic_systems-retro-game-1024x683.jpg)](https://www.meetup.com/CT-Hackerspace/events/qzktcryzkbkc/)
 
 Retro Gaming at CTH 4th Saturdays 3pm - 6pm

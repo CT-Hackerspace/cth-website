@@ -12,8 +12,6 @@ description: ""
 author: Bremster
 ---
 
-# New Web Radio at CT Hackerspace
-
 You may be aware that CTH has a stereo which can play music from a dedicated MP3 Player or internet radio stations via the nearby netbook. The netbook doesn’t work so well in this setup with OS freezing and audio pauses due to stream buffering. As a result, the stereo system is getting an upgrade in the form of a dedicated music streamer!
 
 The music streamer is based on a Raspberry Pi running the [Volumio](http://www.volumio.com/) OS distribution. It will play internet radio stations (m3u and pls files) as well as locally stored MP3’s. The Raspberry Pi has an analog audio output but it is low quality. There are different solutions available for this but the cheapest is to use a standard USB sound card. The audio output of the sound card is then piped into a standard Stereo Receiver.

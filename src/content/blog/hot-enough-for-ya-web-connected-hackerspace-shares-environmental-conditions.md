@@ -12,8 +12,6 @@ description: ""
 author: Bill
 ---
 
-# Hot Enough For Ya? Web-Connected Hackerspace Shares Environmental Conditions
-
 ![hotenough](/uploads/2015/11/hotenough.jpg)
 
 Come winter time, the hackerspace can get kind of cold. And in the summer, it can get darn hot! To give members a heads up of the current temperature in the 'space before making the journey out here, we created a web-enabled temperature/humidity sensor. The main device is an ESP8266 which reads a DHT-22 sensor. The temperature and humidity information is sent up to thingspeak.com. From there, a quick PHP script in our Wordpress Widgets section can read and display the current temperature on the website. Since the DHT-22 can also do humidity, we opted for displaying that as well. Visiting the thingspeak page shows a graph of [historical data](https://thingspeak.com/channels/66724/).

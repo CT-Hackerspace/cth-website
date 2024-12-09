@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Hackster. IO Watertown premieres tomorrow at CT Hackerspace Wednesday Night 8/17/2016
 
 ![hackster_logo_blue](/uploads/2016/08/hackster_logo_blue.png)
 

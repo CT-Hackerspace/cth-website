@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Infrastructure Update: 3 Working Laser Printers now available at CT Hackerspace
 
 Infrastructure improvements continue at our space.
 

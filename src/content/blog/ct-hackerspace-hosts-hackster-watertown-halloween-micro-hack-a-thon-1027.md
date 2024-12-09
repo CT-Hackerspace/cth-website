@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace hosts Hackster Watertown Halloween Micro Hack-a-thon 10/27
 
 ![clipart-haunted-house-image](/uploads/2016/10/Clipart-Haunted-House-Image-150x150.png)
 

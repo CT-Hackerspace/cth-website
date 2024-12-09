@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Miss an event, Miss a lot! CT Hackerspace General Meeting Recap
 
 ![General-Membership-Meeting](/uploads/2018/03/General-Membership-Meeting.png)
 

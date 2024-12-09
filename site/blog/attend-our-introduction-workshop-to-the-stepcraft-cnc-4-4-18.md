@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Attend our Introduction Workshop to the Stepcraft CNC 3/4/18
 
 _Sunday, March 4, 2018_
 

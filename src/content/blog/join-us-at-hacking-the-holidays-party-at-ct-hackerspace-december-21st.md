@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Join Us at Hacking the Holidays Party at CT Hackerspace December 21st.
-
 [![party-confetti](/uploads/2016/12/party-confetti-300x149.jpg) Hacking the Holidays Party at CT Hackerspace](https://www.meetup.com/CT-Hackerspace/events/236095475/)
 
 Wed, 12/21/2016 - 6:00pm to ???

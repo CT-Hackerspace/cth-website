@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# VOLUNTEERS NEEDED Donation from fellow makerspace this Sunday 12/15
-
 ![Moving (B&W)](/uploads/2019/02/moving-black-white.jpg)
 
 Contact Treasurer Jason Wells at: [cthackerspace.treasurer@gmail.com](cthackerspace.treasurer@gmail.com) if you can help! He is coordinating the volunteer team with Art Gagnon.

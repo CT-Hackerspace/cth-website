@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Project : A Soldering Station on the Go
 
 ![](/uploads/2015/12/closed-case-150x150.jpg)![fullsetup 3-4 view](/uploads/2015/12/fullsetup-3-4-view-150x150.jpg)
 

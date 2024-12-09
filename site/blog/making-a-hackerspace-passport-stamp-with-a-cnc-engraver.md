@@ -12,7 +12,6 @@ todo:
   - Fix Caption Problem
 ---
 
-# Making a Hackerspace Passport Stamp with a CNC Engraver
 
 Admittedly, we got caught off guard when a foreign hackerspace member stopped by to visit and asked for a stamp on his [Hackerspace Passport](http://hackerspaces.org/wiki/Hackerspaces_Passport). Well, we didn't have one. A few days later we did. Here's how we made a Hackerspace Passport Stamp on our CNC Engraver:
 

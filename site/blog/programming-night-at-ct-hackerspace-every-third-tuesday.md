@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Programming Night at CT Hackerspace Every third Tuesday!
 
 ![Software Developer](/uploads/2017/01/software-developer-300x192.jpg)
 

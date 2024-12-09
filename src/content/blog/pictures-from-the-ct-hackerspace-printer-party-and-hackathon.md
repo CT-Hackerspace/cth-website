@@ -9,8 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Pictures from the CT Hackerspace Printer Party and Hackathon
-
 ---
 
 We Learn, Make, and Share ALL THINGS 3D PRINTING!

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace's Micro Controller Group re-launch is a Big Success!
 
 ![microcontrollers-1-150x150.jpg](/uploads/2017/10/microcontrollers-1-150x150.jpg)
 

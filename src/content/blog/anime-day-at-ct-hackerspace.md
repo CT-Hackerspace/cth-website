@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Anime Day at CT Hackerspace Saturday June 26
 
 ![Anime Words](/uploads/2021/06/anime-words.jpg)
 

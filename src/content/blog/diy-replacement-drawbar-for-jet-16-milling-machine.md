@@ -11,8 +11,6 @@ description: ""
 author: Bremster
 ---
 
-# DIY Replacement Drawbar for Jet 16 Milling Machine
-
 ![DIY Jet 16 Drawbar c](/uploads/2017/10/Drawbar1465-300x162.jpg)CTH received a donation of an old Jet 16 Mill/Drill. It was in rough shape. In addition to needing a paint job, there were also some pieces missing, including the Drawbar. Used drawbars on eBay were in the $100 range. Instead of ponying up that cash, we decided to make our own drawbar. We have an entire workshop at our disposal, right?!?!?!?!?
 
 ![MillDrawBar-167x300.png](/uploads/2017/10/MillDrawBar-167x300.png)

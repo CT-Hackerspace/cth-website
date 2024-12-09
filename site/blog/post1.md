@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# New CT Hackerspace Website
 
 ![UC6](/uploads/2015/06/UC6.gif)
 

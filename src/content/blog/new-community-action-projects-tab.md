@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# New Community Action Projects Tab!
 
 ![Action Project Highlights](/uploads/2019/11/action-projects-highlight.png)
 

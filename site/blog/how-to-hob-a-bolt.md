@@ -13,7 +13,6 @@ description: ""
 author: Bremster
 ---
 
-# How to Hob a Bolt (with a Tap & Milling Machine)
 
 ![wade extruder diagram](/uploads/2016/03/diagram.png)
 

@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# By popular demand, CT Hackerspace hosts next Gaming Day July 25th
 
 ![Play Again](/uploads/2017/06/pLAY-AGAIN-300x203.png)
 

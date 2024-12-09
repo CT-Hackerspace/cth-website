@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Support the CT Hackerspace Bridgeport Rebuild during our 1:1 Matching Fundraiser
 
 [DONATE NOW!](https://www.paypal.com/donate/?token=MtiQ2kPr14WdqI2O6iIP3c1hW6DHe6XqpxArXU56VkEZRwlsmzVG_bYaHbD23wZ5tKZ5im&country.x=US&locale.x=)
 

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CTH Supports FIRST ROBOTICS Team 237's Ziti Dinner Tonight!
 
 Help support our future builders, leaders, and engineers at  FIRST Team 237's Ziti Dinner at Union Congregational Church, Buckingham Street, Oakville, Connecticut 5 PM - 8 PM tonight.
 

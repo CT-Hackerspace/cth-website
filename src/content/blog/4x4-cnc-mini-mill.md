@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# 4"x4" CNC Mini Mill
 
 Here's our story about our CNC Mini Mill / Engraver that was put together by several of the CT Hackerspace members. We use this mostly to cut PCB Boards, but we've used to a little to carve stamps (like our Hackerspace Passport Stamp) and to cut some plexiglass. I've been meaning to write this up for a very long time but the [Hack-A-Day Henchmen](http://hackaday.com/2013/10/07/hackaday-hackerspace-henchmen-equals-free-stuff-for-you/) article got me to get off my butt.
 

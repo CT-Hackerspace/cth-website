@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Back by Popular Demand! Learn to Weld Things that don't fall apart! April 19th + 22nd
 
 ![Welder](/uploads/2018/03/welder-clipart-art-8-300x194.jpg)
 

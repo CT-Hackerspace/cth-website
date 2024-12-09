@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# The CT Hackerspace Tool Upgrades Continues : Our 4' x 8' CNC Machine
 
 The CT Hackerspace Tool Upgrades Continues!
 

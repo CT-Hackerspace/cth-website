@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace hosts Sparks31 return of Grid-Down/Down-Grid Communications Class 01/06/19
 
 ## Basic Grid-Down/Down-Grid Communications, Communications Monitoring, and Signals Intelligence (SIGINT) Class January 6th, 2019, 0800-1800 EST at CT Hackerspace
 

@@ -10,7 +10,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace proud to become an official Hackster Event Location.
 
 ![hackster_logo_blue](/uploads/2016/08/hackster_logo_blue.png)
 

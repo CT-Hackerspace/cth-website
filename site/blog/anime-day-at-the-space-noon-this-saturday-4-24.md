@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Anime Day at the space Noon this Saturday 4/24
 
 ![Dr Stone](/uploads/2021/04/dr_stone_3-1024x576.jpg)
 

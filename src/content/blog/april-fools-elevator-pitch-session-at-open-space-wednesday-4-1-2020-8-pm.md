@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# April Fools Elevator Pitch Session at Open Space Wednesday 4.1.2020, 8 PM
 
 ![Elevator Pitch](/uploads/2020/03/elevator-pitch.png)
 

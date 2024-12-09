@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# NOTICE... Important and Urgent! CTH Members... Check your Paypal!!
 
 ![](/uploads/2021/01/Paypal-bad.png)
 

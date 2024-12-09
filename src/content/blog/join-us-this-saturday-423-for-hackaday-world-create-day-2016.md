@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Saturday, April 23, 2016 12:00 PM
 
 ![Hackaday World Create Day 2016](https://cdn.hackaday.io/images/5664961460572566617.png)
 

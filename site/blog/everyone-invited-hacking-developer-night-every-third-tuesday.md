@@ -8,7 +8,6 @@ description: Come join us once a month to share and learn about the craft of sof
 author: Bill
 ---
 
-# Everyone Invited - Hacking & Developer Night EVERY THIRD Tuesday
 
 ![software-developer-150x150.jpg](/uploads/2017/01/software-developer-150x150.jpg)
 

@@ -11,7 +11,6 @@ description: ""
 author: Bremster
 ---
 
-# 3D Printing: Not Just For Do-Dads Anymore PART 3 - WDTV
 
 ![wdtv 3d printed bracket](/uploads/2016/04/2016-04-16-15.30.30-1024x760.jpg)
 

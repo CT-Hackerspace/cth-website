@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# MARCHINTOSH: Retro Computing Meeting at CT Hackerspace March 27th
 
 ![test2](/uploads/2021/03/test2.jpeg)
 

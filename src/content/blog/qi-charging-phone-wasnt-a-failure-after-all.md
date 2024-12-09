@@ -15,8 +15,6 @@ description: ""
 author: Bremster
 ---
 
-# Qi Charging Phone Wasn't A Failure After All
-
 ![Qi Wireless Charging Receiver Soldered - Samsung Galaxy Exhilarate SGH-i577](/uploads/2016/09/2016-09-10-14.32.03a-300x234.jpg)
 
 A few days ago I posted how my [wireless phone charging hack](/blog/diy-wireless-phone-charging-works-and-doesnt-work-at-the-same-time/) was a failure. I tried soldering in a Qi Receiver into my old school Samsung Galaxy Exhilarte SGH-i577 phone. While I got all the goodies crammed in the phone, the phone got waaaaay hot when charging. So much so that the phone gave a warning saying the battery is over-temp and charging was stopped! Fast forward a couple days. I figured I could try a different charging pad. Guess what? It worked perfectly and the phone didn't get hot! I can't explain it. I'm not a Qi expert but I did poke around on Wikipedia to learn more about the [Qi technology](https://en.wikipedia.org/wiki/Qi_(inductive_power_standard)). From Wikipedia:

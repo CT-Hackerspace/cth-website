@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Hacking the Holidays Party at CT Hackerspace 2017!
 
 [![party-confetti](/uploads/2016/12/party-confetti-300x149.jpg)](https://www.meetup.com/CT-Hackerspace/events/236095475/)
 

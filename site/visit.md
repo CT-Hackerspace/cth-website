@@ -1,5 +1,5 @@
 ---
-title: Find Us
+title: Come Vist Us!
 slug: findus
 date: 2015-06-25 02:41:28
 categories: []

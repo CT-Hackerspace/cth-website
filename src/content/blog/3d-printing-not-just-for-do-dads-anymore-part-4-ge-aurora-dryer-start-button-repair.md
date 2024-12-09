@@ -12,7 +12,6 @@ description: ""
 author: Bremster
 ---
 
-# GE Aurora Dryer Start Button Repair
 
 3D Printers are the best! The appliance adventure I experienced today proves that statement. My neighbor has a GE Aurora Clothes Dryer that 'stopped working'. The reports were that the Start Button was becoming increasingly finicky. My gut reaction was that the physical switch was going bad. Well, in the end I was wrong about that, learned how **not** to design a dryer and gained even more appreciation for my 3D Printer. Check out this panel-view, it appears from the outside that this is some sort of membrane switch. I later learned that that is not the case. After removing the panel and PCB control board, I found an outer membrane, which pushed on an injection-molded button with an inch-long pin and that pin pushed on a tactile switch that was soldered to the PCB control board.
 

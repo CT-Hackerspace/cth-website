@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace 3D Printer Party and Hackathon 2/19
 
 CT Hackerspace is having their Next 3D Printing Party!
 

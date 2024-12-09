@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace LOVES Rocket Builders.
 
 ![Build Rockets](/uploads/2017/08/lets-build-rockets-logo.jpg)
 

@@ -8,8 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Intro To Web Publishing 101 Workshop Dec 8th, 6pm
-
 ![html-word-cloud-300x300.jpg](/uploads/2018/09/html-word-cloud-300x300.jpg)
 
 This is a [general class](https://www.meetup.com/CT-Hackerspace/events/256583175) for learning how to do web publishing for all skill levels. Absolute beginners will get a crash course in creating a simple website, and more advanced developers can expect help with writing javascript, css problems, or anything related to web technology.

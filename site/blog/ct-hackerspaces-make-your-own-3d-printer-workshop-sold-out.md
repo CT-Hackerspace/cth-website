@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace's MAKE YOUR OWN 3D PRINTER Workshop SOLD OUT!
 
 ![sold-out-image.jpg](/uploads/2018/11/sold-out-image.jpg)
 

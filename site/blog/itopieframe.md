@@ -9,7 +9,6 @@ description: ""
 author: Bremster
 ---
 
-# New 3D Printer Project, the iTopie
 
 ![ITopie RepRap 2.png](http://reprap.org/mediawiki/images/thumb/5/5a/ITopie_RepRap_2.png/190px-ITopie_RepRap_2.png)
 

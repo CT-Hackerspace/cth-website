@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# DIY / Build your own Guitar to Stereo Interface Workshop
 
 [![Air-Guitar-Extended-255x300](/uploads/2017/06/Air-Guitar-Extended-255x300.jpg)](https://www.meetup.com/CT-Hackerspace/events/240945120/)
 

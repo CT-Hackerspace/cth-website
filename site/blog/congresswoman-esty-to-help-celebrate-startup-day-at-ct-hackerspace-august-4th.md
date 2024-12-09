@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# SAVE THE DATE!
 
 ![Startup-Day-Across-America-Logo](/uploads/2016/07/Startup-Day-Across-America-Logo-150x150.jpg)
 

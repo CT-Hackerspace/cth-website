@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Lots of printers going at today's 3D Printer Meetup
 
 ![Printer!](/uploads/2024/01/419341736_1292325284797599_3220085295624274122_n.jpg)
 

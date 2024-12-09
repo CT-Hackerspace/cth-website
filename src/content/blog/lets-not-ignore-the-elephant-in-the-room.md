@@ -8,7 +8,6 @@ description: ""
 author: Bremster
 ---
 
-# Let's not ignore the Elephant in the Room
 
 [![elephant zeoscope](/uploads/2015/10/2015-10-07-21.27.02-300x225.jpg)](/uploads/2015/10/2015-10-07-21.27.02.jpg)
 

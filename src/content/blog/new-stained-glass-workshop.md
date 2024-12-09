@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# NEW! Stained Glass Workshop
 
 ![CopperFoil_glasswork_wrapped_before_soldering](/uploads/2016/02/CopperFoil_glasswork_wrapped_before_soldering-150x150.jpg) ![glass workshop image](/uploads/2016/02/glass-workshop-image-150x150.jpg) ![glass workshop image2](/uploads/2016/02/glass-workshop-image2.jpg)
 

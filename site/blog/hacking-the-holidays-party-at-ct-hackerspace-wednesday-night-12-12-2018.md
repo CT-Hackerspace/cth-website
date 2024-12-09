@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Hacking the Holidays Party at CT Hackerspace Wednesday Night, 12/12/2018
 
 **Hacking the Holidays Party at CT Hackerspace** **Wed, 12/12/2018 – 7:00pm to ???** **Come celebrate the holidays at CT Hackerspace Wednesday**
 

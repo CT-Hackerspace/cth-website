@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# VOLUNTEERS NEEDED Donation from fellow makerspace this Sunday 12/15
 
 ![Moving (B&W)](/uploads/2019/02/moving-black-white.jpg)
 

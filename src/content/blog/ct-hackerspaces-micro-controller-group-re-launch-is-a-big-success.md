@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace's Micro Controller Group re-launch is a Big Success!
-
 ![microcontrollers-1-150x150.jpg](/uploads/2017/10/microcontrollers-1-150x150.jpg)
 
 Our new Microcontroller Meetings are now controlled by CT Hackerspace members, and have been a big success with a large, continued following. Dozens of attendees have started coming on a regular basis. This is a great time to be part of this re-launch!

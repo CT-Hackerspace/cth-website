@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# It's hip to be square... well, your CNC Machine's spindle at least...
 
 [![Tramming Gauge](/uploads/2015/12/tramgauge-finished-300x225.jpg)](/uploads/2015/12/tramgauge-finished.jpg)
 

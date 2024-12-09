@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace Fundraiser Workshop 3/13, 9am-5pm
 
 Introduction to Police Scanners & Disaster Preparedness Communications Monitoring.
 

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Making the Retro 50's Rack mount for PC Protection in the Hackerspace Shop
 
 ![](/uploads/2017/08/PC-hanging-from-drawer-e1501708701319.jpg)
 

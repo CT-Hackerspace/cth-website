@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# LIVE MOVIE PARTY at CTH for Hackers Day (25th Anniversary of "Hackers")
 
 ![Hackers](/uploads/2020/09/hackers-group-image.jpg)
 

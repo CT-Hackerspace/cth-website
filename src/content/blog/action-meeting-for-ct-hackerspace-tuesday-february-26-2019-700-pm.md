@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Action Meeting for CT Hackerspace, Tuesday, February 26, 2019 7:00 PM
 
 ### Action Meeting for CT Hackerspace, Tuesday, February 26, 2019 7:00 PM
 

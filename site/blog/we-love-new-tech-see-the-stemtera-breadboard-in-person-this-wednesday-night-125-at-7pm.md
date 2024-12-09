@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# WE LOVE NEW TECHNOLOGY !!
 
 [STEMTERA](/uploads/2017/01/STEMTERA_1024x1024-300x169.jpg)
 

@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# VOLUNTEERS NEEDED to pickup LASER and tools Donation
-
 ![moving (B&W)](/uploads/2019/02/moving-black-white.jpg)
 
 CT Hackerspace wishes the best of luck to our friend Jack G. as he is moving south. Jack wishes to GIVE back to our cause by donating some items, including a 60Watt Co2 Laser!!  

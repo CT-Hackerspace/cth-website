@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace Workshop scheduled for tonight Postponed.
 
 ## Tonight's Workshop (11/15) at CT Hackerspace Postponed Due to Predicted inclement weather. "Scaling Up with CircuitPython will be rescheduled for next month.
 

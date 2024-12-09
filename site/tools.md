@@ -4,8 +4,6 @@ description: List of equipment available at CT Hackerspace
 layout: ../layouts/BaseLayout.astro
 ---
 
-# List of equipment available at CT Hackerspace (in addition to general hand tools and work surfaces...)
-
 ## Lulzbot Mini
 
 ![Lulzbot](/uploads/2015/06/Lulzbot.jpg)

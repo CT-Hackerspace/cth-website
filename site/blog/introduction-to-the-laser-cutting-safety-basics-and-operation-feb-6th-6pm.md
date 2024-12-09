@@ -10,7 +10,6 @@ description: ""
 author: Bill
 ---
 
-# Introduction to the Laser Cutting : Safety, Basics, and Operation - Feb 6th, 6pm
 
 ![frickin-laser-beams2.jpg](/uploads/2021/01/frickin-laser-beams2.jpg)
 

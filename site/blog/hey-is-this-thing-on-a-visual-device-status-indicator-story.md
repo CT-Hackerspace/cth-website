@@ -12,7 +12,6 @@ description: ""
 author: Bremster
 ---
 
-# Hey, Is This Thing On? A Visual Device-Status Indicator Story
 
 ![DIY humidifier on active indicator LED assembled front](/uploads/2017/01/humid-1-1-300x290.jpg)
 

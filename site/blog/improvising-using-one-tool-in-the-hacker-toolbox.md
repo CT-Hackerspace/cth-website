@@ -10,7 +10,6 @@ todo:
   - Fix Caption Problem
 ---
 
-# Improvising - Using One tool in the Hacker Toolbox
 
 **Success in a roundabout way thanks to improvising.**
 

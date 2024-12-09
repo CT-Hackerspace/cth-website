@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Back with BYTE! Digital Self Reliance Meeting "Returns to the Edge" 12/5 at 7pm
 
 ![DSR Idea](/uploads/2017/10/DSR-idea-1-277x300.png)
 

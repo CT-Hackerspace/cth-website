@@ -8,8 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace to Bring back Saturday Open Space
-
 ![saturday calendar](/uploads/2016/05/saturday-calendar-150x150.jpg)
 
 We are going again to start offering Open Space Saturdays! Member and Non-Members are free to attend our always informal Open Space Time. It's time to work on your project, hang out with the group or just check out the space. We have a plethora of tools and knowledgeable people at your disposal. Come visit and join in the fun, We look forward to meeting you and having you part of our community.

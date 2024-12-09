@@ -10,7 +10,6 @@ author: CThackerspace
 
 <!-- TODO: Start Here-->
 
-# Milling Machine Fundamentals
 
 ![CTH Equipment Workshop](/uploads/2015/10/LearnEquipment-1024x440.jpg) 
 

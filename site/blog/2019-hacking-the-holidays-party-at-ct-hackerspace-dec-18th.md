@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# A Holiday Party!
 
 ![Holiday Party](/uploads/2019/11/holiday_party_thumb-1024x572.jpg)
 

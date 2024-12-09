@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# Project iTopie Continues...
 
 [![iTopie MDF Right](/uploads/2016/07/2016-07-23-09.21.03-1-225x300.jpg)](/uploads/2016/07/2016-07-23-09.21.03-1.jpg)
 

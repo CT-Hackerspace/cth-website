@@ -13,7 +13,6 @@ description: ""
 author: Bremster
 ---
 
-# CTH 3DPW - AirWolf 3D Heated Bed Replacement
 
 ![AW3D XL](/uploads/2017/06/file-1-300x225.jpeg)The 27-May 3D Printer Workshop at CTH went well. Our new pal Josh brought in his older AirWolf 3D AW3D XL printer. This thing has a huge 200x300 mm heated build plate. However, the build plate was a PCB-style which flexed and warped when heating up. This gave an inconsistent print surface height.  If you've printed before, you know the height of the print surfaces has to be pretty darn consistent to get first-layer adhesion. Josh bought a replacement aluminum build plate, but unfortunately, the mounting holes were not the same! We can fix that... The build plate bolts directly to an aluminum frame. We removed that frame from the printer, clamped the new build plate to the frame and transfer-drilled new mounting holes in the frame. After that modification, re-assembly was a breeze.
 

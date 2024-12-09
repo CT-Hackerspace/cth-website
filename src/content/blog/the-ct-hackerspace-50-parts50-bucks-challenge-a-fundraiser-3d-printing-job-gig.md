@@ -14,9 +14,6 @@ description: ""
 author: Bill
 ---
 
-# The CT Hackerspace 50 Parts/50 Bucks Challenge - A Fundraiser 3D Printing Job Gig
-
-**CT Hackerspace Fundraiser**
 
 **3D Printing Job / Gig**
 

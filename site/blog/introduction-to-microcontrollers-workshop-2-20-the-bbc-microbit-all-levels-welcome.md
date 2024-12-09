@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Introduction to Microcontrollers Workshop 2/20: The BBC Micro:bit - All levels welcome!
 
 ![intro-to-microcontrollers-capture-1024x572.png](/uploads/2021/02/intro-to-microcontrollers-capture-1024x572.png)
 

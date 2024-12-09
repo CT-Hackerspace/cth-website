@@ -9,7 +9,6 @@ description: ""
 author: Bill
 ---
 
-# Join us as CT Hackerspace welcomes the CT Home Shop Machinists Group April 14th at 2pm
 
 The Connecticut area Home Shop Machinist group is a local community of Hobbyist machinists and enthusiasts. This is an excellent opportunity to meet other hobbyists and learn new techniques or share your projects with others.
 

@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace End of Year Clean up Pizza Party Monday 12/30
 
 ![Sweeping!](/uploads/2019/12/15167728581956879009free-sweeping-clipart.med_.png)
 

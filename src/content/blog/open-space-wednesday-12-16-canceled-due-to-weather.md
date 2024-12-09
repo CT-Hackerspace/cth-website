@@ -9,6 +9,4 @@ description: ""
 author: Bill
 ---
 
-# Open Space Wednesday 12/16 canceled due to weather
-
 Open Space Wednesday Night on 12/16 is canceled due to predicted bad weather. Stay safe!

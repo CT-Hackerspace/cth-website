@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Harvey's Super Huge Printer Now Moves
 
 [![Harvey's Huge Printer](/uploads/2015/07/2015-07-01-17.53.30-1024x768.jpg)](/uploads/2015/07/2015-07-01-17.53.30.jpg)
 

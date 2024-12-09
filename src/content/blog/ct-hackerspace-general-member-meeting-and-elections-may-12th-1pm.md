@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace General Member Meeting and Elections May 12th, 1pm
 
 Save the date to attend CT Hackerspace's [General Member Meeting](https://www.meetup.com/CT-Hackerspace/events/249099471/) on Saturday May 12th at 1pm.
 

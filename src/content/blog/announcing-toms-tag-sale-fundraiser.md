@@ -12,7 +12,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Tom's Tag Sale!
 
 ![Tag Sale](/uploads/2017/07/tag-sale-image-300x196.jpg)
 

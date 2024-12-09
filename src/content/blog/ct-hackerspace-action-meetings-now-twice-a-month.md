@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace Action Meetings now twice a month!
 
 ![Action Tuseday!](/uploads/2021/04/people-action-tuedsays.jpg)
 

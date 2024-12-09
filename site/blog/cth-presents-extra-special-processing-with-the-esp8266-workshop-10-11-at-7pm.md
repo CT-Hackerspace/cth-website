@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CTH Presents Extra Special Processing with the ESP8266 Workshop 10/11 at 7pm
 
 Want a cheap and easy way to get WiFi or Bluetooth into your project? Take a look at the ESP8266 and ESP32 modules. Both come on boards that are very inexpensive and can be programmed through the Arduino IDE. These modules can be found all over the internet in various form factors and it can be confusing which to use. ![](/uploads/2018/10/ESP8266-Capture.png)
 

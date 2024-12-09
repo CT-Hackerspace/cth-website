@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# Auto 3D Print Ejection, Kinda Works
 
 I have successfully printed several parts in a row without human interaction. Check out the [video](https://www.youtube.com/watch?v=gnme8Tx00bg)
 

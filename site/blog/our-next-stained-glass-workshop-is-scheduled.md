@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Our Next Stained Glass Workshop is scheduled.
 
 ![CopperFoil_glasswork_wrapped_before_soldering](/uploads/2016/02/CopperFoil_glasswork_wrapped_before_soldering-150x150.jpg)
 

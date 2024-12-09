@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# 3D Printing: Not Just For Do-Dads Anymore PART II
 
 This follow up Article adds to [Rich's Article](/blog/3d-printing-not-just-for-do-dads-anymore/) about the emerging use of 3D printing in everyday life.
 

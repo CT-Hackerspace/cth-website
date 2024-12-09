@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace restarts Open Space, workshops to follow
 
 ![HNet](/uploads/2020/05/Hnet.com-image.gif)
 

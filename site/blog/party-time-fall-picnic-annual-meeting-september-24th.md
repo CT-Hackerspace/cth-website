@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Party Time! Fall Picnic & Annual Meeting September 24th
 
 ![sept24](/uploads/2016/09/sept24-300x217.png)
 

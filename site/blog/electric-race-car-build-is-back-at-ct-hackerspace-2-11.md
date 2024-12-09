@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Electric Race Car build is Back at CT Hackerspace 2/11
 
 ![tesla-fire.gif](/uploads/2021/02/tesla-fire.gif)
 

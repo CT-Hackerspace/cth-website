@@ -8,8 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace welcomes Joel Leonard on Sunday, March 8, 2020.
-
 **3/6 Update: By popular demand and to open availability, a second talk is now scheduled at 3pm!**
 
 ![NOW-TWO-TALKS-791x1024.png](/uploads/2020/03/NOW-TWO-TALKS-791x1024.png)

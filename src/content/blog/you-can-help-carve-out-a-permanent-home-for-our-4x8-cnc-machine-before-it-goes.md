@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# YOU can help carve out a permanent home for our 4'x8' CNC Machine before it goes!
 
 Recent changes have put the future of our 4' x 8' CNC Machine on notice! The CNC, which was on long term loan from one of our older members, has been slated for removal. Your immediate action can change this outcome.
 

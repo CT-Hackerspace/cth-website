@@ -11,7 +11,6 @@ description: ""
 author: Bremster
 ---
 
-# Stealth Motorcycle Garage Door Opener
 
 ![motorcycle garage door opener](/uploads/2016/04/garagedooropenerdiagram-1024x342.png)
 

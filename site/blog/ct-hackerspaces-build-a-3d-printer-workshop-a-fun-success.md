@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace's Build a 3D Printer Workshop a fun success!
 
 ![IMG_-ojugdp-300x169.jpg](/uploads/2018/11/IMG_-ojugdp-300x169.jpg)
 

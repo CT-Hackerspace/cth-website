@@ -12,7 +12,6 @@ description: ""
 author: Bremster
 ---
 
-# Adding a Second PSU to your Desktop PC
 
 ![2nd atx psu turn on circuit](/uploads/2016/12/atxpsu-assembled-s-300x211.jpg)
 

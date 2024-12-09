@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace Introduction to Soldering Electronics 8/29
 
 ![Chicken Soldiering](/uploads/2020/07/chicken-soldering.png)
 

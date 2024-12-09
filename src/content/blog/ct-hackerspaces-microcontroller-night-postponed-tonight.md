@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace's Microcontroller Night postponed tonight
 
 Please update your calendars. Tonight's meeting with Louis has been postponed for December. We hope to see you in the new year!
 

@@ -12,7 +12,6 @@ description: ""
 author: Bill
 ---
 
-# Hot Enough For Ya? Web-Connected Hackerspace Shares Environmental Conditions
 
 ![hotenough](/uploads/2015/11/hotenough.jpg)
 

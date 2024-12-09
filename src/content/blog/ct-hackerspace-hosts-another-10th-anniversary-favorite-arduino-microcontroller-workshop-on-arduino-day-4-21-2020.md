@@ -9,7 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace hosts another 10th Anniversary Favorite -Arduino microcontroller Workshop (on ARDUINO DAY 4/21/2020)
 
 ![Arduino Day 2020!](/uploads/2020/02/arduino-day-2020-Capture.png)
 

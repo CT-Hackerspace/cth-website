@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# Water Color Bot at CT Hackerspace
 
 This week at CT Hackerspace we had the opportunity to see the Water Color Bot by Evil Mad Scientist in Action. Miss a Wednesday - Miss A Lot. You never know what will show up at Wednesday Open Space Night!
 

@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Wednesday Night Spotlight: Electric Car and The Power Racing Series Presentation: 12/5 at 7pm
 
 ![Electric Cars](/uploads/2018/11/electric-car3.jpg)
 

@@ -13,8 +13,6 @@ description: ""
 author: Bremster
 ---
 
-# How to Hob a Bolt (with a Tap & Milling Machine)
-
 ![wade extruder diagram](/uploads/2016/03/diagram.png)
 
 With the Wade-style RepRap 3D Printer extruders, the part that actually drives the filament is a 'hobbed bolt'. A hobbed bolt has a little toothed-groove around its circumference that grips the filament and drives it into the hot-end as the bolt is turned. There's a few ways to make a [hobbed bolt](http://reprap.org/wiki/Making_a_Hobbed_Bolt). We'll show you one way here that utilizes a Tap and Milling Machine. For a typical [Wade-style extruder](http://reprap.org/wiki/Wade's_Geared_Extruder), an 8mm bolt is used. Since we want to cut the toothed groove completely around the bolt we need that bolt to rotate. What better way to do that than to mount it in a pair of bearings. Regular skate bearings (608zz) have 8mm inner diameters and are actually what are used to support the bolt in the Wade extruder. I designed up a quick 3D-printed bracket to hold a pair of bearings and provide some features for easy clamping in the Milling Machine's vise.

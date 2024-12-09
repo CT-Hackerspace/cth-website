@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# 12 Years of Making
 
 ![Ann](/uploads/2022/02/12Ann.jpg)
 

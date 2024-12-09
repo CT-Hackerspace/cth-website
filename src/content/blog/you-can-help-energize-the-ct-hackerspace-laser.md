@@ -11,7 +11,6 @@ description: ""
 author: CThackerspace
 ---
 
-# YOU CAN HELP Energize the CT Hackerspace "Laser"
 
 !["laser"](/uploads/2021/02/6Fy.gif)
 

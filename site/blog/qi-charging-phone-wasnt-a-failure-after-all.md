@@ -15,7 +15,6 @@ description: ""
 author: Bremster
 ---
 
-# Qi Charging Phone Wasn't A Failure After All
 
 ![Qi Wireless Charging Receiver Soldered - Samsung Galaxy Exhilarate SGH-i577](/uploads/2016/09/2016-09-10-14.32.03a-300x234.jpg)
 

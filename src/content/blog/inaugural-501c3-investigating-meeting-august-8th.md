@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Inaugural 501(c)(3) investigating meeting August 8th
 
 ![regulateions-gears.jpg](/uploads/2020/07/regulateions-gears.jpg)
 

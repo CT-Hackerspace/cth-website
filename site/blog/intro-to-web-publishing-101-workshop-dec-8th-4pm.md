@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Intro To Web Publishing 101 Workshop Dec 8th, 6pm
 
 ![html-word-cloud-300x300.jpg](/uploads/2018/09/html-word-cloud-300x300.jpg)
 

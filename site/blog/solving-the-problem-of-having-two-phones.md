@@ -12,7 +12,6 @@ description: ""
 author: Bremster
 ---
 
-# Solving the Problem of having Two Phones
 
 ![solving multiple cell phones](/uploads/2017/06/multiple-cell-phones-300x199.jpg)
 

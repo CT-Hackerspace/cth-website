@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# Phone Charging Station
 
 [![CTH Phone Charging Station](/uploads/2015/07/charger04.jpg)](/uploads/2015/07/charger04.jpg)
 

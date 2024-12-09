@@ -13,7 +13,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace hosts monthly Retro Computing Meeting for Vintage Computer Enthusiasts
 
 ![](/uploads/2019/03/6o0.gif)
 

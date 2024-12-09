@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace to Bring back Saturday Open Space
 
 ![saturday calendar](/uploads/2016/05/saturday-calendar-150x150.jpg)
 

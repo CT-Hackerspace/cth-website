@@ -8,7 +8,6 @@ author: RedDwarfian
 layout: ../layouts/BaseLayout.astro
 ---
 
-# Rules and Liability Waiver
 
 This is taken from our [Information and Liability Waiver](http://CT_Hackerspace_Information_and_Liability_Waiver_2021-08-05)
 

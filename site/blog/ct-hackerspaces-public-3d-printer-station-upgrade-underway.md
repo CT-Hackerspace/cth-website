@@ -8,7 +8,6 @@ description: ""
 author: Bill
 ---
 
-# CT Hackerspace's Public 3D Printer Station Upgrade Underway!
 
 ![cth-printer-station--300x169.jpg](/uploads/2018/03/cth-printer-station--300x169.jpg)
 

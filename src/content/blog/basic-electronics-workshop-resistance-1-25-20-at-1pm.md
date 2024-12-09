@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# Basic Electronics Workshop - Resistance 1/25/20 at 1pm
 
 ![Tesla Tower](/uploads/2020/01/tesla-tower.jpg)
 

@@ -15,7 +15,6 @@ description: ""
 author: Bremster
 ---
 
-# DIY Wireless Phone Charging, Works And Doesn't Work At The Same Time
 
 [![Qi Wireless Charging Receiver Soldered - Samsung Galaxy Exhilarate SGH-i577](/uploads/2016/09/2016-09-10-14.26.20-300x223.jpg)](/uploads/2016/09/2016-09-10-14.26.20.jpg)
 

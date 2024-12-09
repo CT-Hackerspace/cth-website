@@ -9,8 +9,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace 10th Anniversary Favorite - Introduction to Soldering Electronics May 17th 2020
-
 ![You're holding it Wrong](/uploads/2020/03/soldering-tee-shirt-300x225.jpg)
 
 You’ll learn the basics of using molten metal to make electronics projects come to life. You’ll also learn some basic techniques for removing soldered components. This introductory class is to help those with low or no soldering experience. By the end of class, you will have gained practical knowledge of many electronic components, along with gaining a proficiency in soldering.

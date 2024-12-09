@@ -8,7 +8,6 @@ description: ""
 author: CThackerspace
 ---
 
-# CT Hackerspace (Post COVID-19) Open Space Night Wednesday 5/20
 
 ![Open!](/uploads/2020/05/open-image.png)
 

@@ -10,7 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# Super Cheap Power Supply for FIRST Robotics
 
 [![12v power supply](/uploads/2016/01/2016-01-30-11.27.30-300x225.jpg)](/uploads/2016/01/2016-01-30-11.27.30.jpg)
 

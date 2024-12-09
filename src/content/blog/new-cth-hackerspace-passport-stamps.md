@@ -10,8 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# New CTH Hackerspace Passport Stamps
-
 ![CTH Hackerspace Passport Stamp](/uploads/2015/10/Stamp1_3.jpg)
 
 CT Hackerspace has two new hackerspace passport stamps c/o neighboring hackerspace [NESIT](http://www.nesit.org/) and their Epilog laser cutter. They were cut out of regular stamp rubber. The 'handles' are just pieces of wood with the logos engraved in the top. So next time you swing by, bring your hackerspace passport! Check out [Hackaday](http://hackaday.com/2015/05/22/how-to-making-a-hackerspace-passport-stamp/ )for a bunch of ways to make a passport stamp as well as how those methods actually work!

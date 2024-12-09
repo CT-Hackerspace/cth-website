@@ -10,8 +10,6 @@ description: ""
 author: Bremster
 ---
 
-# Making an Arudino Shield for Programming an ATTiny
-
 ![New ATTINY Arduino Shield](/uploads/2015/07/NewATTINY-1.jpg)
 
 My [original ATTINY mini shield](/blog/program-an-attiny-using-an-arduino/#more-286) was a great idea in concept, and it worked as anticipated. However, since the mini shield was sooo small, it was a pain to make sure that it was lined up correctly on the arduino pins. There was a definite possibility to install it in the wrong pins and I didn't want to find out what happened when it was plugged into the wrong pins. Here's the mini shield: So I decided to redesign the board, making it a little bigger so that it fully fills up 2 of the 4 banks of female pin headers on the Arduino. I'm hoping this will make it harder to screw up installing the shield onto the Arduino. Since the board was going to be phyically larger, I thought I would also make it accept another ATTINY chip size. I arbitrarily chose a 14-pin ATTINY84 to accompany the 8-pin ATTINY85. The chip sockets are wired in parallel.
