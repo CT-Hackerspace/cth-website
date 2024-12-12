@@ -64,6 +64,41 @@ hr::after {
     clear: both;
 }
 
+.search-wrapper {
+    position: relative;
+    max-width: 500px;
+    color: #00000040;
+
+    .search-icon {
+        position: absolute;
+        right: 0.25rem;
+        top: 0.5rem;
+        height: 1rem;
+        width: 1rem;
+        pointer-events: none;
+    }
+
+    input:hover + .search-icon, input:focus + .search-icon {
+        color: #00000080;
+    }
+}
+
+input:not([type="checkbox"]):not([type="radio"]) {
+    border: 1px solid #00000040;
+    border-radius: .25rem;
+    padding: 0.1875rem 0.375rem;
+    width: 100%;
+
+    &[type="search"] {
+        padding-right: 1.25rem;
+    }
+
+    &:hover, &:focus {
+        border: 1px solid #00000080;
+        outline: none;
+    }
+}
+
 nav:not(.c-breadcrumbs) {
     display: flex;
     justify-content: space-between;

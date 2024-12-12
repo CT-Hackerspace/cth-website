@@ -32,13 +32,27 @@ const { title, description, date } = Astro.props;
     <body itemscope itemtype="http://schema.org/WebPage">
         <Header />
         <main itemscope itemtype="http://schema.org/Blog">
-            <Breadcrumbs ariaLabel="a structured list of navigatio links" />
             <article
             itemscope
             itemtype="https://schema.org/BlogPosting"
             itemprop=""
             >
             <h1 itemscope itemprop="headline">{title}</h1>
+            <Breadcrumbs ariaLabel="a structured list of navigation links" debug={true} linkTextFormat="capitalized">
+                <svg
+                    slot="separator"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    ><polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+            </Breadcrumbs>
                 <div class="hero-image">
                     {/* 
                         heroImage && (
