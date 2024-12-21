@@ -1,6 +1,6 @@
 ---
 title: CT Hackerspace Prepper Meeting POSTPONED
-slug: ct-hackerspace-prepper-meeting-6-20-%c2%b7-7pm
+slug: ct-hackerspace-prepper-meeting-6-20-7pm
 date: 2020-06-07 20:47:04
 categories:
   - Events
