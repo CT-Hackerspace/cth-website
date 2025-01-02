@@ -1,14 +1,15 @@
 ---
 import { getCollection } from "astro:content";
+import { Breadcrumbs } from "astro-breadcrumbs";
 import BaseHead from "../../components/BaseHead.astro";
 import Footer from "../../components/Footer.astro";
-import Header from "../../components/Header.astro";
 import FuzzySearch from "../../components/FuzzySearch.jsx";
+import Header from "../../components/Header.astro";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
-import { Breadcrumbs } from "astro-breadcrumbs";
 
-const posts = (await getCollection("blog")).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-
+const posts = (await getCollection("blog")).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
 ---
 
 <html lang="en">

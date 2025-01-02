@@ -5,9 +5,18 @@ import { defineConfig } from "astro/config";
 
 import react from "@astrojs/react";
 
+import robots from "astro-robots";
+
 // https://astro.build/config
 export default defineConfig({
-  site: "http://localhost:4322/",
-  integrations: [mdx(),  react(), sitemap(),],
-  
+  site: "https://cthacker.space/",
+  integrations: [
+    mdx(),
+    react(),
+    sitemap({
+      changefreq: "weekly",
+      lastmod: new Date(),
+    }),
+    robots(),
+  ],
 });
