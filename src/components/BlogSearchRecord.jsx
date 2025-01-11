@@ -22,7 +22,7 @@ export default function BlogSearchRecord(props) {
       <div className="blog-description">{description}</div>
       {categories?.length && (
         <div className="extra">
-          Tags:&#20;
+          Tags:{' '}
           {categories
             .reduce(
               (elements, item) => [
