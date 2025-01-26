@@ -2,7 +2,12 @@ import * as fs from "node:fs/promises";
 import * as path from "node:path";
 import { $ } from "bun";
 
+process.chdir("/home/tenner/projects/cth-website");
+
+await $`git pull origin master`;
+await $`bun install`
 await $`bunx astro build`;
+
 const allFilesGlob = new Bun.Glob("./**/*");
 const builtFolder = "./dist";
 const siteFolder = "/var/www/html";
