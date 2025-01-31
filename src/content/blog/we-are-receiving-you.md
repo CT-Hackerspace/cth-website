@@ -1,12 +1,12 @@
 ---
-title: We are receiving you - My experiences getting Slow Scan TV pictures from the International Space Station.
+title: We are receiving you - My experiences getting Slow Scan TV pictures from the International Space Station. (Part 1)
 slug: we-are-receiving-you
 date: 2025-01-03 17:00:00
 categories:
   - Ham Radio
   - International Space Station
   - Projects
-description: "Recently, I have been getting back into amateur radio.  I never lost interest per say, but had put it aside due to time constraints and other interests, not to mention the fact that my rooftop antenna was coming into a room that was repurposed after having a child.  I still kept going to ham fests, turned up at related hackerspace events, and even purchase an HF rig, but I didn’t quite have the interest at the time to keep up."
+description: "Part 1: Getting back into Radio. Recently, I have been getting back into amateur radio.  I never lost interest per say, but had put it aside due to time constraints and other interests, not to mention the fact that my rooftop antenna was coming into a room that was repurposed after having a child.  I still kept going to ham fests, turned up at related hackerspace events, and even purchase an HF rig, but I didn’t quite have the interest at the time to keep up."
 author: Reed
 ---
 
