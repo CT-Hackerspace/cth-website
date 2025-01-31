@@ -273,7 +273,20 @@ main {
     }
 }
 
-/* TODO: Create Media Queries and size main accordingly */
+.center-image {
+    width: 100%;
+    
+    > img {
+        max-width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+
+        @include breakpoints.media-breakpoint-down(md) {
+            max-width: 100%;
+        }
+    }
+}
+
 
 footer {
     color: #333;
