@@ -1,17 +1,23 @@
 ---
 interface Props {
   date: Date;
+  showDate?: boolean;
+  showTime?: boolean;
+  showWeekday?: boolean;
 }
 
-const { date } = Astro.props;
+const { date, showDate = true, showTime = false, showWeekday = false } = Astro.props;
+const dateOptions: Intl.DateTimeFormatOptions = {
+    weekday: showWeekday ? "long" : undefined,
+    year: showDate ? "numeric" : undefined,
+    month: showDate ? "short" : undefined,
+    day: showDate ? "numeric": undefined,
+    hour: showTime ? "numeric" : undefined,
+    minute: showTime ? "numeric" : undefined,
+};
+
 ---
 
 <time datetime={date.toISOString()}>
-    {
-        date.toLocaleDateString("en-us", {
-            year: "numeric",
-            month: "long",
-            day: "numeric",
-        })
-    }
+    { date.toLocaleString("en-us", dateOptions) }
 </time>

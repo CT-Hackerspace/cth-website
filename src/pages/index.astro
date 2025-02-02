@@ -1,0 +1,127 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from '../layouts/BaseLayout.astro';
+import FormattedDate from "../components/FormattedDate.astro";
+import * as consts from "../consts";
+import BlogSearchRecord from "../components/BlogSearchRecord";
+
+const content = {
+    title: "CT Hackerspace - The oldest Makerspace in CT",
+    description: "The First and Oldest Makespace in Connecticut",
+    date: new Date().toDateString(),
+};
+
+const mostRecentPosts = (await getCollection("blog")).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+).map(p => p.data).slice(0, 3);
+---
+
+<BaseLayout
+    content={content}>
+    <style lang="scss">
+        @use "../styles/breakpoints";
+        @use "sass:color";
+        .main-content {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 1rem;
+            flex-direction: row;
+
+            .information-section {
+                flex-basis: 60%;
+                display: flex;
+                flex-direction: column;
+                gap: 1rem;
+            }
+            .events-section {
+                flex-basis: 40%;
+            }
+
+            @include breakpoints.media-breakpoint-down(md) {
+                flex-direction: column;
+                
+                .introduciton-section {
+                    flex-basis: auto;
+                }
+                .events-section {
+                    flex-basis: auto;
+                }
+            }
+        }
+
+        .events-list {
+            display: flex;
+            gap: 1rem;
+            flex-direction: column;
+
+            list-style-type: none;
+            padding: 0;
+
+            li {
+                display: flex;
+                flex-direction: column;
+                gap: 0.5rem;
+                background-color: color.adjust(#ced4db, $lightness: 10%);
+                border: 1px solid #ccc;
+                border-radius: 0.25rem;
+                padding: 0.5rem 1rem;
+                font-size: 0.875rem;
+
+                h3 {
+                    margin: 0;
+                    font-size: 1rem;
+                }
+
+                svg {
+                    display: inline-block;
+                    width: 1em;
+                    height: 1em;
+                    vertical-align: middle;
+                    margin-top: -.25em;
+                }
+
+                .event-description {
+                    white-space: pre-line;
+                    display: flex;
+                    flex-direction: column;
+                    gap: 0.5rem;
+                }
+            }
+        }
+    </style>
+    <div class="main-content">
+        <section class="information-section">
+            <p>CT Hackerspace is a DIY and Technology oriented group located in Watertown, Connecticut. We provide a community workshop and prototyping center to help make your ideas real.</p>
+            <p>We are the First and Oldest Makespace in Connecticut and we have lasted this long for a reason, and that reason is you! CT Hackerspace’s goal has always been to build a community of makers that collaborate and learn together no matter who they are, or where they come from.</p>  
+            <p>We can't wait to meet you, so come down and join our making family! We have a 4,000 sq ft space full of tools, materials and knowledgeable members, who are willing to help turn your idea into an achievable project.</p>
+            <h2>Recent Blog Posts</h2>
+            {mostRecentPosts.map(e => (
+                <BlogSearchRecord {...e} />
+            ))}
+            <p><a href="/blog">View More</a></p>
+        </section>
+        <section class="events-section">
+            <h2>Upcoming Events</h2>
+            <ul class="events-list">
+                {consts.events.map((event) => {
+                    const effectiveStartDate:Date = consts.getEffectiveStartDate(event);
+                    const effectiveEndDate:Date = consts.getEffectiveEndDate(event);
+                    const sameDay:boolean = effectiveStartDate.toLocaleDateString() === effectiveEndDate.toLocaleDateString();
+                    return (
+                        <li>
+                            <h3>{event.summary}</h3>
+                            <p><FormattedDate date={effectiveStartDate} showWeekday={true} showTime={true} /> - <FormattedDate date={effectiveEndDate} showDate={!sameDay} showTime={true} /></p>
+                            <p>
+                                <a href={`https://maps.google.com/maps?hl=en&q=${encodeURIComponent(event.location)}&source=calendar`} target="_blank">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="currentColor" d="M16 3c-4.957 0-9 4.043-9 9c0 1.406.57 3.02 1.344 4.781c.773 1.762 1.77 3.633 2.781 5.375a101.333 101.333 0 0 0 4.063 6.407L16 29.75l.813-1.188s2.039-2.917 4.062-6.406c1.012-1.742 2.008-3.613 2.781-5.375C24.43 15.02 25 13.406 25 12c0-4.957-4.043-9-9-9zm0 2c3.879 0 7 3.121 7 7c0 .8-.43 2.316-1.156 3.969c-.727 1.652-1.73 3.484-2.719 5.187c-1.57 2.711-2.547 4.145-3.125 5c-.578-.855-1.555-2.289-3.125-5c-.988-1.703-1.992-3.535-2.719-5.187C9.43 14.316 9 12.8 9 12c0-3.879 3.121-7 7-7zm0 5a1.999 1.999 0 1 0 0 4a1.999 1.999 0 1 0 0-4z"/></svg>
+                                    {event.location}
+                                </a>
+                            </p>
+                            <div class="event-description" set:html={event.description}></div>
+                        </li>
+                    );
+                })}
+            </ul>
+        </section>
+    </div>
+</BaseLayout>
