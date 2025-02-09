@@ -1,4 +1,5 @@
 ---
+import PaymentLink from './PaymentLink.astro';
 const today = new Date();
 ---
 
@@ -21,13 +22,7 @@ const today = new Date();
         </section>
         <section>
             <h2>Donations or Payments</h2>
-            Please donate or pay your membership fees by clicking the button below:<br />
-            <style>.pp-MUXCSW5R4U3UN{text-align:center;border:none;border-radius:0.25rem;min-width:11.625rem;padding:0 2rem;height:2.625rem;font-weight:bold;background-color:#FFD140;color:#000000;font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.25rem;cursor:pointer;}</style>
-            <form action="https://www.paypal.com/ncp/payment/MUXCSW5R4U3UN" method="post" target="_top" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
-            <input class="pp-MUXCSW5R4U3UN" type="submit" value="Donate" />
-            <img src=https://www.paypalobjects.com/images/Debit_Credit_APM.svg alt="cards" />
-            <section> Powered by <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"/></section>
-            </form>
+            <PaymentLink />
         </section>
         <section>
             <h2>Open House</h2>

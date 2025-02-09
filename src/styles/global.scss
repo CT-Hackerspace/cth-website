@@ -83,7 +83,7 @@ hr::after {
     }
 }
 
-input:not([type="checkbox"]):not([type="radio"]) {
+input:not([type="checkbox"]):not([type="radio"]):not([type="image"]) {
     border: 1px solid #00000040;
     border-radius: .25rem;
     padding: 0.1875rem 0.375rem;
