@@ -7,3 +7,4 @@ TODO:
 -- Placeholder content.
 - Add an "icon" to the BlogSearchRecord object.
 - Make the events (on the front page, at least) collapse the description, unless hovering (allow a tap on mobile).
+- Document procedure somewhere (here or on the server itself) on how to manually trigger the build on the server.

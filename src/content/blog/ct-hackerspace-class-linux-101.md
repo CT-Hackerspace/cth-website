@@ -5,15 +5,15 @@ date: 2025-01-30 20:00:00
 categories:
   - Events
   - Linux
-description: "Upcoming Class on 2/15/2025: Linux 101"
+description: "Upcoming Class on 2/22/2025: Linux 101"
 author: CThackerspace
 ---
 
 # Linux 101: Putting the *fun* in Fundamentals of Linux
 
-**Editor's Note:** A previous version of this article had the wrong date. This has been corrected.
+**UPDATE 2/14/2025** This class was originally scheduled to be on 2/15 at 2PM, but has been postponed by one week due to winter weather. Stay warm!
 
-Date: Saturday, 2/15/2025 at 2:00pm<br/>
+Date: Saturday, 2/22/2025 at 5:00pm<br/>
 Location: CT Hackerspace<br/>
 Address: 30 Echo Lake Road, Watertown CT 06795<br/>
 
