@@ -7,7 +7,7 @@ description: ""
 author: CThackerspace
 ---
 
-Membership is a mere $60 a month! ...a small price to pay for eternal happiness. ($50/month with recurring payment) Student Membership is available for $25 a month. You need to give starving students a break!
+Membership is a mere $95 a month! ...a small price to pay for eternal happiness. Student Membership is available for $47.50 a month. You need to give starving students a break!
 
 ## Benefits
 
@@ -15,7 +15,7 @@ Membership is a mere $60 a month! ...a small price to pay for eternal happiness.
 
 ## Submission Process
 
-Download and fill out the [Membership Application](/uploads/2023/02/CT_Hackerspace_Membership_Form_2021-10-09.pdf) Download and fill out the [Liability Waiver](/uploads/2023/02/CT_Hackerspace_Information_and_Liability_Waiver_2021-08-05.pdf) Bring documents to weekly meeting. Alternately, send application to address specified on application document. A member of the Board will accept application for review. A background check may be conducted to validate the membership agreements. The membership application and supporting documentation will be reviewed by the Board of Directors. Acceptance or rejection letter will be sent to the applicant's address defined in the application document.
+Download and fill out the [Membership Application](/uploads/2025/03/CT_Hackerspace_Membership_Form_2025-03-06.pdf). Download and fill out the [Liability Waiver](/uploads/2025/03/CT_Hackerspace_Information_and_Liability_Waiver_2025-03-06.pdf). Bring documents to weekly meeting. Alternately, send application to address specified on application document. A member of the Board will accept application for review. A background check may be conducted to validate the membership agreements. The membership application and supporting documentation will be reviewed by the Board of Directors. Acceptance or rejection letter will be sent to the applicant's address defined in the application document.
 
 ## Legal Agreement
 
