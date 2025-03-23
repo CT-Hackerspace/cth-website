@@ -24,6 +24,7 @@ Hello fellow Makers! *CTHackerspace* is once again hosting our Maker Day on Marc
 - Kids welcome!
 - 3D Printing
 - Web Design
+- D&D/RPGs
 
 ![3D printer](/uploads/2024/03/20240310_111501-768x1024.jpg)
 
