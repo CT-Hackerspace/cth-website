@@ -296,6 +296,15 @@ footer {
     gap: 2rem;
     flex-direction: column;
 
+    .social-link {
+        display: inline-block;
+        margin: 0 0.5rem 0 0;
+        > img {
+            width: 1em;
+            height: 1em;
+        }
+    }
+
     .details {
         display: flex;
         min-height: 1rem;
