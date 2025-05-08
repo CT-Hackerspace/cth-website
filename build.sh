@@ -1,7 +1,8 @@
 #!/bin/bash
+WEBROOT="/var/www/html";
 # if we can't find an agent, start one, and restart the script.
 if [ -z "$SSH_AUTH_SOCK" ] ; then
-  exec ssh-agent bash -c "ssh-add /home/.ssh/id_ec25519; $0"
+  exec ssh-agent bash -c "ssh-add /home/tenner/.ssh/gh; $0"
   exit
 fi
 [ -d "/tmp/build-site/" ] || mkdir /tmp/build-site/
@@ -10,5 +11,10 @@ cd /tmp/build-site/
 cd "cth-website"
 git pull origin
 bun install
-bunx astro build
-[ -d "dist" ] || echo "Build Failure"; exit 1;
+bun run build
+echo $(pwd);
+[ -d "dist" ] || (echo "Build Failure"; exit 1)
+echo "Moving Files"
+rm -r $WEBROOT/**
+cp -r dist/** $WEBROOT
+[ -f "$WEBROOT/index.html" ] || echo "Moving Failed";
