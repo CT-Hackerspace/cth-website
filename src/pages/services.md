@@ -21,7 +21,7 @@ Our facility is great for learning. Come teach your class at CT Hackerspace. As 
 
 ## Business Startup Plan
 
-If your newly formed business is in need of a place to meet and work, then this is a great opportunity for you! Our facility has tools and equipment that can help get your company off the ground. Rates are negotiable based on your specific requirements so please [contact us](/findus) to discuss it.
+If your newly formed business is in need of a place to meet and work, then this is a great opportunity for you! Our facility has tools and equipment that can help get your company off the ground. Rates are negotiable based on your specific requirements so please [contact us](/how-to-find-us) to discuss it.
 
 ## 3D Printing Service
 

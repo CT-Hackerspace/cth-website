@@ -13,6 +13,8 @@ CT Hackerspace Inc. is located at [30 Echo Lake Road Watertown, CT 06795](https:
 
 Call [(804) 601-HACK](tel:+18046014225)
 
+Text [1-804-601-4225](sms:+18046014225?&body=Hi%2520I%2520am%2520Interested%2520in%2520CTHackerspace)
+
 Email [contact.cthackerspace@gmail.com ](mailto:contact.cthackerspace@gmail.com)
 
 ## Directions from Rt 8

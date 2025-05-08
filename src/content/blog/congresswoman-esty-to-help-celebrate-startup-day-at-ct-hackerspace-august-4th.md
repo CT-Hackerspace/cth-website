@@ -15,4 +15,4 @@ August 4th is Startup Day Across America. Startup Day Across America connects el
 
 **We are looking to exhibit some of the innovative products that our community has created along with a round table with any Connecticut startups, innovation spaces, entrepreneurial financing establishments, and colleges/universities who wish to participate. So, please grab your creations and save the date of August 4th, Startup Day!**
 
-Contact Bill at CT Hackerspace ASAP for more information. Contact: <a href="mailto:Contact.CTHackerspace@gmail.com"></a> <a href="tel:+12034504247">Phone: (203) 450- 4247</a> (Leave a detailed message if no answer)
+Contact Bill at CT Hackerspace ASAP for more information. Contact: <a href="mailto:Contact.CTHackerspace@gmail.com"></a> <a href="tel:+18066014225">Phone: (804) 601-HACK</a> (Leave a detailed message if no answer)
