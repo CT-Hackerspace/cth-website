@@ -10,7 +10,7 @@ layout: ../layouts/BaseLayout.astro
 
 ![Lulzbot](/uploads/2015/06/Lulzbot.jpg)
 
-## CNC Wood Router 
+## CNC Wood Router - - -
 - has a 4x8 ft cutting area.
 
 ![cncrouter](/uploads/2015/06/cncrouter.jpg)
