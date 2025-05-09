@@ -10,11 +10,12 @@ layout: ../layouts/BaseLayout.astro
 
 ![Lulzbot](/uploads/2015/06/Lulzbot.jpg)
 
-## CNC Wood Router - has a 4x8 ft cutting area.
+## CNC Wood Router 
+- has a 4x8 ft cutting area.
 
 ![cncrouter](/uploads/2015/06/cncrouter.jpg)
 
-## CNC Engraver -
+## CNC Engraver
 
 - This gem has a 4x4in cutting area and primarily used to cut circuit boards and stamps.
 
