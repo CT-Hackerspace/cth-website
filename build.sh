@@ -9,11 +9,14 @@ fi
 cd /tmp/build-site/
 [ -d 'cth-website' ] || $(git clone git@github.com:CT-Hackerspace/cth-website.git)
 cd "cth-website"
-git pull origin
+git pull origin main
 bun install
 bun run build
 echo $(pwd);
-[ -d "dist" ] || (echo "Build Failure"; exit 1)
+[ -f "dist/index.html" ] || {
+    echo "Build Failure"
+    exit 1
+}
 echo "Moving Files"
 rm -r $WEBROOT/**
 cp -r dist/** $WEBROOT
