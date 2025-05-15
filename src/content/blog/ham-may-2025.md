@@ -1,14 +1,14 @@
 ---
-title: Ham Radio Meetup Wednesday, May 14, 2025
+title: Ham Radio Meetup Wednesday, May 7, 2025
 slug: ham-may-2025
-date: 2025-05-08 00:00:00
+date: 2025-05-06 00:00:00
 categories:
   - Ham Radio
 description: "Ham Radio Meetup with Reed"
 author: CTHackerspace
 ---
 
-CTHackerspace will have a Ham Radio Meetup on Wednesday, May 14, 2025 7:00 PM - 10:00 PM
+CTHackerspace will have a Ham Radio Meetup on Wednesday, May 7, 2025 7:00 PM - 10:00 PM
 
 Ham Radio Enthusiasts are invited to join us to discuss radio and meet other enthusiasts. Whether you are a licensed ham or just interested, please stop by! Some topics that will be covered are SSTV, Antenna design, and DMR.
 

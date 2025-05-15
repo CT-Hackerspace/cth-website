@@ -18,6 +18,7 @@ WiFi will be available!
 Directions are available [here](/how-to-find-us)
 
 Please 🎫[purchase a ticket for the class to reserve your spot](https://lp.constantcontactpages.com/ev/reg/95fas9m/lp/5b42c8c3-3398-413b-be82-00fb61301180)🎫
+
 Please contact us if you have any questions at:
 
 Phone: [(804) 601-HACK](tel:+18066014225)
