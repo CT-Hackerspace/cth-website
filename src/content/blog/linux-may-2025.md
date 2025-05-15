@@ -15,6 +15,7 @@ David will teach the ins and outs of the Linux Operating System at CTHackerspace
 WiFi will be available!
 
 Directions are available [here](/how-to-find-us)
+Please [purchase a ticket for the class to reserve your spot](https://lp.constantcontactpages.com/ev/reg/c6pkdxr/lp/0542597e-5c79-42c6-8f2e-34a72f55dee2)
 
 Please contact us if you have any questions at:
 
