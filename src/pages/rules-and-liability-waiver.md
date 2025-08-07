@@ -9,7 +9,7 @@ layout: ../layouts/BaseLayout.astro
 ---
 
 
-This is taken from our [Information and Liability Waiver](/uploads/2025/03/CT_Hackerspace_Information_and_Liability_Waiver_2025-03-06.pdf)
+This is taken from our [Information and Liability Waiver](/uploads/2025/08/CT_Hackerspace_Information_and_Liability_Waiver_2025-08-07.pdf)
 
 <hr />
 
