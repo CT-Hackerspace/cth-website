@@ -9,7 +9,7 @@ layout: ../layouts/BaseLayout.astro
 ---
 
 
-This is taken from our [Information and Liability Waiver](/uploads/2025/03/CT_Hackerspace_Information_and_Liability_Waiver_2025-03-06.pdf)
+This is taken from our [Information and Liability Waiver](/uploads/2025/08/CT_Hackerspace_Information_and_Liability_Waiver_2025-08-07.pdf)
 
 <hr />
 
@@ -36,7 +36,7 @@ space.
 - Do not remove any community items from the Hackerspace without explicit permission from a board member.
 - Members and visitors are not allowed to alter or repair any infrastructure (including but not limited to: electrical, plumbing, structural elements of the space, the doors or their locking mechanisms, etc.) without the permission of the CT Hackerspace, Inc. board.
 - Members and visitors are not allowed to use the Hackerspace hardware for cryptocurrency purposes without the permission of the CT Hackerspace Inc. board.
-- No consumption of alcoholic beverages for any members or visitors under the legal Connecticut drinking age of 21, or any person operating machinery of any kind.
+- No consumption of alcoholic beverages for any members or visitors.
 - Any tools may not be used after consuming any amount of alcohol.
 - Intoxicated or otherwise impaired members or visitors are not allowed in the Hackerspace.
 - Illegal drugs are not permitted in the Hackerspace.

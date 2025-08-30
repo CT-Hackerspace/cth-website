@@ -17,7 +17,7 @@ Membership is a mere $95 a month! ...a small price to pay for eternal happiness.
 ## Submission Process
 
 1. Download and fill out the [Membership Application](/uploads/2025/03/CT_Hackerspace_Membership_Form_2025-03-06.pdf).
-1. Download and fill out the [Liability Waiver](/uploads/2025/03/CT_Hackerspace_Information_and_Liability_Waiver_2025-03-06.pdf).
+1. Download and fill out the [Liability Waiver](/uploads/2025/08/CT_Hackerspace_Information_and_Liability_Waiver_2025-08-07.pdf).
 1. Bring those documents to weekly meeting.
 
 Alternately, send those files to the address specified on application document. A member of the Board will accept application for review. A background check may be conducted to validate the membership agreements. The membership application and supporting documentation will be reviewed by the Board of Directors. Acceptance or rejection letter will be sent to the applicant's address defined in the application document.
