@@ -349,3 +349,8 @@ footer {
         }
     }
 }
+
+// Today I Learned: Details/Summary is a built-in Collapsable HTML element, and works with markdown!
+details > summary {
+    cursor: pointer;
+}
