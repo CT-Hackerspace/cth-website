@@ -3,21 +3,23 @@ import { type CollectionEntry, getCollection } from "astro:content";
 import { render } from "astro:content";
 import BlogPost from "../../layouts/BlogPost.astro";
 import {getCMSPosts} from "../../cms"
-export const prerender = true;
+export const prerender = false;
 
-export async function getStaticPaths() {
   const posts = await getCollection("blog");
   const cmsPosts = await getCMSPosts();
   posts.push(...cmsPosts);
 
-  return posts.map((post) => ({
+  const paths = posts.map((post) => ({
     params: { slug: post.data.slug },
     props: post,
   }));
-}
+
+  
+const { slug } = Astro.params;
+const post = paths.find((p) => p.props.data.slug === slug).props;
+
 type Props = CollectionEntry<"blog">;
 
-const post = Astro.props;
 if (post.data.preRendered === true) 
 var  Content  = "Fragment"
 else 
