@@ -16,9 +16,11 @@ export const prerender = false;
 
   
 const { slug } = Astro.params;
-const post = paths.find((p) => p.props.data.slug === slug).props;
+const page = paths.find((p) => p.props?.data.slug === slug);
 
 type Props = CollectionEntry<"blog">;
+if (!page) return Astro.redirect("/404");
+const post = page.props;
 
 if (post.data.preRendered === true) 
 var  Content  = "Fragment"
