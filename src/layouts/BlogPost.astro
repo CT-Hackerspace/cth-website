@@ -11,6 +11,7 @@ import Header from "../components/Header.astro";
 type Props = CollectionEntry<"blog">["data"];
 
 const { title, description, date, author, slug } = Astro.props;
+console.log(slug);
 const entry = await getEntry("blog", slug);
 const dom = entry?.rendered?.html ?? "";
 const fakePage = new JSDOM(dom);

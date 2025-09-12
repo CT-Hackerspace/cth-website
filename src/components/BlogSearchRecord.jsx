@@ -6,7 +6,7 @@ export default function BlogSearchRecord(props) {
   return (
     <article key={title} className="blog-blurb">
       <h2>
-        <a href={`/blog/${slug}/`}>{title}</a>
+        <a href={`/blog/${slug}`}>{title}</a>
       </h2>
       {date && author ? (
         <div className="extra">
