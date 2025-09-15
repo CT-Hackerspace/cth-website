@@ -5,9 +5,14 @@ import BaseHead from "../../components/BaseHead.astro";
 import Footer from "../../components/Footer.astro";
 import FuzzySearch from "../../components/FuzzySearch.jsx";
 import Header from "../../components/Header.astro";
+import {getCMSPosts} from "../../cms"
 import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
 
-const posts = (await getCollection("blog")).sort(
+const cmsPosts = await getCMSPosts();
+console.log(cmsPosts);
+const posts = (await getCollection("blog"))
+posts.push(...cmsPosts);
+posts.sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
 ---

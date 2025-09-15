@@ -13,6 +13,8 @@
     "@astrojs/react": "^4.2.0",
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.2.1",
+    "@directus/sdk": "^20.0.3",
+    "@nurodev/astro-bun": "^2.0.5",
     "astro": "^5.2.3",
     "astro-breadcrumbs": "^3.3.1",
     "astro-robots": "^2.3.1",

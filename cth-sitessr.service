@@ -1,0 +1,24 @@
+[Unit]
+# describe the app
+Description=CT Hackerspace Site Server Renderer 
+# start the app after the network is available
+After=network.target
+
+[Service]
+# usually you'll use 'simple'
+# one of https://www.freedesktop.org/software/systemd/man/systemd.service.html#Type=
+Type=simple
+# which user to use when starting the app
+User=tenner
+# path to your application's root directory
+WorkingDirectory=/home/tenner/cth-website/dist/server
+# the command to start the app
+# requires absolute paths
+ExecStart=/usr/local/bin/bun run entry.mjs
+# restart policy
+# one of {no|on-success|on-failure|on-abnormal|on-watchdog|on-abort|always}
+Restart=always
+
+[Install]
+# start the app automatically
+WantedBy=multi-user.target

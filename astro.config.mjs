@@ -7,9 +7,13 @@ import react from "@astrojs/react";
 
 import robots from "astro-robots";
 
+import bun from "@nurodev/astro-bun"
+
 // https://astro.build/config
 export default defineConfig({
   site: "https://cthacker.space/",
+  adapter: bun(),
+  output: "server",
   integrations: [
     mdx(),
     react(),
