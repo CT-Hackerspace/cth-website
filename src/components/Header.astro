@@ -2,40 +2,23 @@
 import { SITE_TITLE } from "../consts";
 import HeaderLink from "./HeaderLink.astro";
 
-import * as fs from "node:fs/promises";
-import * as path from "node:path";
-
-const dir = await fs.readdir("./src/pages", {
-  withFileTypes: true,
-});
-
-/*
-    <HeaderLink href="/tools">Tools &amp; Equipment</HeaderLink>
-    <HeaderLink href="/membership">Membership</HeaderLink>
-    <HeaderLink href="/visit">Visit</HeaderLink>
-    <HeaderLink href="/events">Events</HeaderLink>
-    <HeaderLink href="/blog">Blog</HeaderLink>
-*/
-
-const markdownFiles = dir
-  .filter((e) => e.isFile())
-  .filter((e) => e.name.endsWith(".md"))
-  .filter((e) => !e.name.startsWith("index"));
-
-const dash = /\-/g;
-const lowercase = /^[a-z]| [a-z]/g;
-
-const headerLinks = markdownFiles.map((e) => {
-  const { ext, name } = path.parse(e.name);
-
-  const linkDesc = name
-    .replace(dash, " ")
-    .replace(lowercase, (e) => e.toUpperCase());
-  return {
-    id: `/${name}`,
-    desc: linkDesc,
-  };
-});
+const headerLinks = [
+    { id: "/", desc: "Home" },
+    { id: "/blog", desc: "Blog" },
+    { id: "/calendar", desc: "Calendar" },
+    { id: "info-menu", desc: "Info", dropdown: [
+        { id: "/who-are-we", desc: "Who Are We" },
+        { id: "/how-to-find-us", desc: "How To Find Us" },
+        { id: "/services", desc: "Services" },
+        { id: "/tools", desc: "Tools & Equipment" },
+        { id: "/bylaws", desc: "Bylaws" }
+    ] },
+    { id: "involved-menu", desc: "Get Involved", dropdown: [
+        { id: "/membership", desc: "Membership" },
+        { id: "/rules-and-liability-waiver", desc: "Rules and Liability Waiver" },
+    ] },
+    { id: "/store", desc: "Store" }
+];
 ---
 
 <header>
@@ -46,9 +29,7 @@ const headerLinks = markdownFiles.map((e) => {
         <label for="main-menu" class="navbar-toggle">🍔</label>
         <input id="main-menu" type="checkbox" />
         <ul>
-            <HeaderLink href="/">Home</HeaderLink>
-            <HeaderLink href="/blog">Blog</HeaderLink>
-            {headerLinks.map(e => <HeaderLink href={e.id}>{e.desc}</HeaderLink>)}
+            {headerLinks.map(e => <HeaderLink href={e.id} dropdown={e.dropdown}>{e.desc}</HeaderLink>)}
         </ul>
     </nav>
 </header>
