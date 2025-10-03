@@ -16,7 +16,7 @@ Membership is a mere $95 a month! ...a small price to pay for eternal happiness.
 
 ## Submission Process
 
-1. Download and fill out the [Membership Application](/uploads/2025/03/CT_Hackerspace_Membership_Form_2025-03-06.pdf).
+1. Download and fill out the [Membership Application](/uploads/2025/10/CT_Hackerspace_Membership_Form_2025-10-03.pdf).
 1. Download and fill out the [Liability Waiver](/uploads/2025/08/CT_Hackerspace_Information_and_Liability_Waiver_2025-08-07.pdf).
 1. Bring those documents to weekly meeting.
 
