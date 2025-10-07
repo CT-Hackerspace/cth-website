@@ -1,16 +1,35 @@
 ---
 import type { HTMLAttributes } from "astro/types";
 
-type Props = HTMLAttributes<"a">;
+type NestedDropdown = {
+  id: string;
+  desc: string;
+  dropdown?: NestedDropdown[];
+}
 
-const { href, class: className, ...props } = Astro.props;
+type Props = HTMLAttributes<"a"> & {
+  dropdown?: NestedDropdown[];
+};
+
+const { href, dropdown, class: className, ...props } = Astro.props;
 const pathname = Astro.url.pathname.replace(import.meta.env.BASE_URL, "");
 const subpath = pathname.match(/[^\/]+/g);
-const isActive = href === pathname || href === `/${subpath?.[0] || ""}`; // "/" + (subpath?.[0] || "");
+const isActive = 
+    (href === pathname || href === `/${subpath?.[0] || ""}`) || // Case: Direct Link
+    (dropdown && dropdown.some(d => d.id === pathname || d.id === `/${subpath?.[0] || ""}`));  // Case: Dropdown Link
+ // "/" + (subpath?.[0] || "");
 ---
 
 <li class:list={[{ active: isActive }]}>
-    <a href={href} class={className} {...props}>
-        <slot />
-    </a>
+    { dropdown ?
+        <label for={href as string | null | undefined} class="navbar-toggle navbar-toggle-dropdown"><slot /></label>
+        <input id={href as string | null | undefined} type="checkbox" />
+        <ul>
+            {dropdown.map(e => <Astro.self href={e.id} dropdown={e.dropdown}>{e.desc}</Astro.self>)}
+        </ul>
+    :
+        <a href={href} class={className} {...props}>
+            <slot />
+        </a>
+    }
 </li>

@@ -16,7 +16,7 @@ Membership is a mere $95 a month! ...a small price to pay for eternal happiness.
 
 ## Submission Process
 
-1. Download and fill out the [Membership Application](/uploads/2025/03/CT_Hackerspace_Membership_Form_2025-03-06.pdf).
+1. Download and fill out the [Membership Application](/uploads/2025/10/CT_Hackerspace_Membership_Form_2025-10-03.pdf).
 1. Download and fill out the [Liability Waiver](/uploads/2025/08/CT_Hackerspace_Information_and_Liability_Waiver_2025-08-07.pdf).
 1. Bring those documents to weekly meeting.
 
@@ -36,4 +36,4 @@ To ensure the safety and well being of minors, all members under the age of 18 w
 
 ## Category
 
-Currently there are 4 membership categories. The household membership is designed to suit members living under a single roof. House hold membership starts with a base price then each additional "line" is multipled by a constant. Additonal "line" is defined as any additional person within the same house hold. Each member under the house hold membership must submit proof of address with membership. Regular membership is designed for the majority. Youth membership is designed to relieve those that are underage but must still be supervised (See Minor Policy). Starving hacker membership is designed for those struggling financially. Starving hackers can earn membership by teaching classes and/or other volenteer work. Those interested in starving hacker membership should contact a board member for further information. The pricing for the membership categories may change depending on CT Hackerspace's current financial requirements.
+Currently there are 4 membership categories. The household membership is designed to suit members living under a single roof. House hold membership starts with a base price then each additional "line" is multipled by a constant. Additonal "line" is defined as any additional person within the same house hold. Each member under the house hold membership must submit proof of address with membership. Regular membership is designed for the majority. Youth membership is designed to relieve those that are underage but must still be supervised (See Minor Policy). The pricing for the membership categories may change depending on CT Hackerspace's current financial requirements.
