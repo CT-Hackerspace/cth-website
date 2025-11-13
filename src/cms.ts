@@ -1,6 +1,8 @@
 import {createDirectus, readItems, rest } from '@directus/sdk'
 
-export const directus = createDirectus('http://localhost:8055').with(rest());
+const directusURL = import.meta.env.PUBLIC_DIRECTUS_URL || "http://localhost:8055";
+//https://docs.astro.build/en/guides/environment-variables/
+export const directus = createDirectus(directusURL).with(rest());
 
 export async function getCMSPosts(){
     const cmsPosts=  await directus.request(readItems('Posts', {
