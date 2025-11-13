@@ -1,12 +1,12 @@
 # CT Hackerspace Website and Blog
 
-## See it Live [Here](https://cthack.space)
+## See it Live [Here](https://cthacker.space)
 
 ![CT Hackerspace](public/CTHLogo.png)
 
 ## Requirements:
 - bun
-- A connection to the cms
+- A connection to the cms (directus)
 ## .env
 ```
 PUBLIC_DIRECTUS_URL=[cms_url]
